@@ -113,6 +113,24 @@ Check `inference.py` and `inference.sh` for the full list of arguments and how t
 
 We use wandb to log training and infernce results.
 
+## Experimental Results
+
+
+
+|           **Model**            |  **Datasets**  | **Text** | **#Params** |         FD ↓          |   KL ↓   |  FAD ↓   |         OVL ↑          |   REL ↑   |
+|:------------------------------:|:--------------:|:--------:|:-----------:|:---------------------:|:--------:|:--------:|:----------------------:|:---------:|
+|          Ground truth          |       −        |    −     |      −      |           −           |    −     |    −     |         91.61          |   86.78   |
+|           DiffSound            |     AS+AC      |          |    400M     |         47.68         |   2.52   |   7.75   |           −            |     −     |
+|           AudioGen             | AS+AC+8 others |          |    285M     |           −           |   2.09   |   3.13   |           −            |     −     |
+|           AudioLDM-S           |       AC       |          |    181M     |         29.48         |   1.97   |   2.43   |           −            |     −     |
+|           AudioLDM-L           |       AC       |          |    739M     |         27.12         |   1.86   |   2.08   |           −            |     −     |
+|                                |                |          |             |                       |          |          |                        |           |
+| AudioLDM-M-Full-FT<sup>‡</sup> | AS+AC+2 others |          |    416M     |         26.12         | **1.26** |   2.57   |         79.85          |   76.84   |
+|  AudioLDM-L-Full<sup>‡</sup>   | AS+AC+2 others |          |    739M     |         32.46         |   1.76   |   4.18   |         78.63          |   62.69   |
+|       AudioLDM-L-Full-FT       | AS+AC+2 others |          |    739M     |       **23.31**       |   1.59   |   1.96   |           −            |     −     |
+|                                |                |          |             |                       |          |          |                        |           |
+|              TANGO             |       AC       |          |    866M     |         24.52         |   1.37   | **1.59** |       **85.94**        | **80.36** |
+
 ## Citation
 Please consider citing the following article if you found our work useful:
 
