@@ -73,7 +73,9 @@ pip install -e .
 
 ## Datasets
 
-Follow the instructions given in the [AudioCaps repository](https://github.com/cdjkim/audiocaps) for downloading the data. The audio locations and corresponding captions are provided in our `data` directory. The `*.json` files are used for training and evaluation.
+Follow the instructions given in the [AudioCaps repository](https://github.com/cdjkim/audiocaps) for downloading the data. The audio locations and corresponding captions are provided in our `data` directory. The `*.json` files are used for training and evaluation. Once you have downloaded your version of the data you should be able to map it using the file ids to the file locations provided in our `data/*.json` files.
+
+Note that we cannot distribute the data because of copyright issues.
 
 ## How to train?
 We use the `accelerate` package from Hugging Face for multi-gpu training. Run `accelerate config` from terminal and set up your run configuration by the answering the questions asked.
@@ -114,6 +116,10 @@ CUDA_VISIBLE_DEVICES=0 python inference.py \
 ```
 
 Check `inference.py` and `inference.sh` for the full list of arguments and how to use them.
+
+We use functionalities from `audioldm_eval` for objective evalution in `inference.py`. It requires the gold reference audio files and generated audio files to have the same name. You need to create the directory `data/audiocaps_test_references/subset` and keep the reference audio files there. The files should have names as following: `output_0.wav`, `output_1.wav` and so on. The indices should correspond to the corresponding line indices in `data/test_audiocaps_subset.json`.
+
+We use the term _subset_ as some data instances originally released in AudioCaps hvae since been removed from YouTube and are no longer available. We thus evaluated our models on all the instances which were available as of 8th April, 2023.
 
 We use wandb to log training and infernce results.
 
