@@ -119,7 +119,7 @@ Check `inference.py` and `inference.sh` for the full list of arguments and how t
 
 We use functionalities from `audioldm_eval` for objective evalution in `inference.py`. It requires the gold reference audio files and generated audio files to have the same name. You need to create the directory `data/audiocaps_test_references/subset` and keep the reference audio files there. The files should have names as following: `output_0.wav`, `output_1.wav` and so on. The indices should correspond to the corresponding line indices in `data/test_audiocaps_subset.json`.
 
-We use the term _subset_ as some data instances originally released in AudioCaps hvae since been removed from YouTube and are no longer available. We thus evaluated our models on all the instances which were available as of 8th April, 2023.
+We use the term _subset_ as some data instances originally released in AudioCaps have since been removed from YouTube and are no longer available. We thus evaluated our models on all the instances which were available as of 8th April, 2023.
 
 We use wandb to log training and infernce results.
 
