@@ -3,7 +3,7 @@
 
 [Paper](https://github.com/declare-lab/tango/blob/master/TANGO.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [~~Demo~~](https://github.com/declare-lab/tango#tango-text-to-audio-using-instruction-guided-diffusion)
 
-📣 We have invited collaboarators and sponsors to train **TANGO** on larger datasets, like AudioSET
+📣 We are inviting collaboarators and sponsors to train **TANGO** on larger datasets, like AudioSET
 
 <br>
 
