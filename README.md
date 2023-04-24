@@ -1,7 +1,7 @@
 # TANGO: Text to Audio using iNstruction-Guided diffusiOn
 <!-- ![cover](img/tango-neurips.png) -->
 
-[Paper](https://github.com/declare-lab/tango/blob/master/TANGO.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [Demo]()
+[Paper](https://github.com/declare-lab/tango/blob/master/TANGO.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [~~Demo~~]()
 
 **TANGO** is a latent diffusion model for text to audio generation. **TANGO** can generate realistic audios including human sounds, animal sounds, natural and artificial sounds and sound effects from textual prompts. We use the frozen instruction-tuned LLM Flan-T5 as the text encoder and train a UNet based diffusion model for audio generation. We outperform current state-of-the-art models for audio generation across both objective and subjective metrics. We release our model, training, inference code and pre-trained checkpoints for the research community.
 
