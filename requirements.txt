@@ -19,7 +19,7 @@ h5py==3.8.0
 horovod==0.27.0
 huggingface_hub==0.13.3
 importlib_metadata==6.3.0
-intel_extension_for_pytorch==2.0.0
+intel_extension_for_pytorch==1.13.0
 ipdb==0.13.11
 jax==0.4.8
 k_diffusion==0.0.14
