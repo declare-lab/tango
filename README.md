@@ -66,6 +66,8 @@ More generated samples are shown [here](https://github.com/declare-lab/tango/blo
 Install `requirements.txt`. You will also need to install the `diffusers` package from the directory provided in this repo:
 
 ```bash
+git clone https://github.com/declare-lab/tango/
+cd tango
 pip install -r requirements.txt
 cd diffusers
 pip install -e .
