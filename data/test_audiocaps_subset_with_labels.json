@@ -1,0 +1,886 @@
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7fmOlUlwoNg_20.wav", "captions": "A machine is making clicking sound as people talk in the background", "labels": "/m/09x0r,/m/0llzx,/t/dd00127"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6BJ455B1aAs_0.wav", "captions": "A missile launching followed by an explosion and metal screeching as a motor hums in the background.", "labels": "/m/014zdl,/m/07qsvvw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/GOD8Bt5LfDE_100.wav", "captions": "A toy train running as a young boy talks followed by plastic clanking then a child laughing", "labels": "/m/07jdr,/m/09x0r,/m/0ytgt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/YQSuFyFm3Lc_230.wav", "captions": "Clattering of a train is ongoing, a railroad crossing bell rings, and a train horn blows", "labels": "/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/VjSEIRnLAh8_30.wav", "captions": "Food sizzling with some knocking and banging followed by a woman speaking", "labels": "/m/09x0r,/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/DlWd7Wmdi1E_150.wav", "captions": "A man talks while several animals make noises in the background", "labels": "/m/015p6,/m/07rc7d9,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/YNDKuNINDOY_30.wav", "captions": "An emergency siren ringing with car horn honking", "labels": "/m/012ndj,/m/03j1ly,/m/03kmc9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/fsBR7e_X_0Y_40.wav", "captions": "An infant yelling as a young boy talks while a hard surface is slapped several times", "labels": "/m/09x0r,/m/0ytgt,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/tjCNwdOUiGc_120.wav", "captions": "A bus engine running followed by a bus horn honking", "labels": "/m/07qv_d5,/m/07yv9,/m/0912c9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/yL3gKa6YLoM_40.wav", "captions": "A man speaking followed by snoring", "labels": "/m/01d3sd,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Lbken4JCr94_10.wav", "captions": "Rolling thunder with lightning strikes", "labels": "/m/06mb1,/m/0jb2l,/m/0ngt1"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_xylo5_IiaM_470.wav", "captions": "A woman and a baby are having a conversation", "labels": "/m/09x0r,/m/0ytgt,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/sVYTOURVsQ0_0.wav", "captions": "Water trickling with man speaking", "labels": "/m/07pqc89,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Smdj6JFB9MQ_350.wav", "captions": "Female speech, a toilet flushing and then more speech", "labels": "/m/01jt3m,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/u84FiZ_omhA_22.wav", "captions": "Loud high humming and croaking sound", "labels": "/m/015p6,/m/07pggtn,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/kx6Rj4MDIAw_30.wav", "captions": "A cuckoo bird coos followed by a train running on railroad tracks as a bell dings in the background", "labels": "/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/PLHXGDnig4M_3.wav", "captions": "A man talking then meowing and hissing", "labels": "/m/01yrx,/m/07qrkrw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Z0IrCa4MvOA_30.wav", "captions": "Water flowing through pipes", "labels": "/m/0130jx,/m/02jz0l,/m/07pqc89,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/14ekd4nkpwc_28.wav", "captions": "An infant crying followed by a man laughing", "labels": "/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/yfYNPWs7mWY_380.wav", "captions": "A man speaking, followed by a door shutting, and then the man speaks some more", "labels": "/m/02dgv,/m/05zppz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/uhSDBwVrEdo_40.wav", "captions": "The wind is blowing, and a person is whistling a tune", "labels": "/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/YQGW5AwDOIo_560.wav", "captions": "Motor vehicles are driving with loud engines and a person whistles", "labels": "/m/07yv9,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Me4npKmtchA_270.wav", "captions": "Bubbles gurgling and water spraying as a man speaks softly while crowd of people talk in the background", "labels": "/m/07pqc89,/m/0838f,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/gbtcDoh0q3c_130.wav", "captions": "Metal clacking followed by a man talking then a metal bang as footsteps shuffle on dirt and a group of men laugh", "labels": "/m/01j3sz,/m/07s04w4,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/OpiWMltpj44_30.wav", "captions": "Ducks quack and water splashes with some animal screeching in the background", "labels": "/m/015p6,/m/09ddx,/m/0dbvp"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9ZZHvwaH-CU_160.wav", "captions": "Multiple gun shots woman screaming", "labels": "/m/032s66"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/K_Vre_-4KqU_60.wav", "captions": "An aircraft engine runs and vibrates, metal spinning and grinding occur, and the engine accelerates and fades into the distance", "labels": "/m/07yv9,/m/0k5j,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/qeSl7YZAfs4_80.wav", "captions": "A man is talking as tap water is running", "labels": "/m/0130jx,/m/02jz0l,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4IeDBwyQ9ZQ_190.wav", "captions": "Woman speaking, plastic container opening", "labels": "/m/04brg2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ArHiac57pVk_30.wav", "captions": "A male speaking", "labels": "/m/07qjznl,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/qZEIs6tS5vk_0.wav", "captions": "A vehicle engine revving followed by tires skidding as a group of people talk in the background", "labels": "/m/07r04,/m/07rknqz,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/paf0nyjg1Js_110.wav", "captions": "A woman talking followed by a plate rattling as food and oil sizzle", "labels": "/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BZCEDkx37rI_15.wav", "captions": "Humming of an idling engine", "labels": "/m/02mk9,/m/07pb8fc,/t/dd00066,/t/dd00130"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/FR7BDRhMATo_310.wav", "captions": "A train running on railroad tracks as a train horn whistle blows several times while railroad crossing warning signals are ringing", "labels": "/m/06hck5,/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/XJba7pTbpD0_5.wav", "captions": "Several varying hisses", "labels": "/m/07qlf79"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CeRoaEcqUgM_30.wav", "captions": "A motorboat driving by as water splashes followed by wind blowing into a microphone", "labels": "/m/019jd,/m/02rlv9,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/zq00Oe1ecpE_140.wav", "captions": "A bus engine slowing down then accelerating", "labels": "/m/012f08,/m/01bjv,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ztSjcZNUY7A_30.wav", "captions": "A woman talks as a baby cries", "labels": "/m/09x0r,/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/glAeihz0NAM_130.wav", "captions": "Kids laughing then talking followed by a young man talking as wind blows into a microphone", "labels": "/m/09x0r,/m/0ytgt,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CM49C3RkzV8_30.wav", "captions": "A woman delivers a speech", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/H-vTZh81qAU_30.wav", "captions": "Clicking followed by humming noise", "labels": "/m/01jwx6"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/up2PpjTzyyc_30.wav", "captions": "Electronic beeping followed by a cat singing then meowing as paper shuffles and a man talks with music playing in the background", "labels": "/m/01yrx,/m/07qrkrw,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/dlsiellSFf0_30.wav", "captions": "A high frequency motor hums loudly and splashes water", "labels": "/m/019jd,/m/02rlv9,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0jGH7A_hpBM_30.wav", "captions": "An adult male speaks, followed by another adult male speaking", "labels": "/m/02qldy,/m/05zppz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CefFMA3klxk_150.wav", "captions": "A horn and then an engine revving", "labels": "/m/012f08,/m/07r04,/m/07yv9,/m/0912c9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/KnXNy5Q6YS4_230.wav", "captions": "Man speaking while insects buzz around", "labels": "/m/01h3n,/m/03vt0,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/cPiSd5nJLrI_30.wav", "captions": "Screaming and a big explosion and then screaming", "labels": "/m/014zdl,/m/07pxg6y,/m/07qsvvw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rJVXE6Axtrg_50.wav", "captions": "A man speaks and a machine runs with a continued speech", "labels": "/m/09x0r,/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/FA11v4SmdBc_70.wav", "captions": "Man speaks followed by whistling", "labels": "/m/01w250,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/QvATUKXYFBs_60.wav", "captions": "Warning bells ring and a train passes with a honking horn", "labels": "/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr,/m/07rwm0c"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_ezm-TpKj1w_30.wav", "captions": "Humming of a revving idling engine with people speaking in the distance", "labels": "/m/07q2z82,/m/09x0r,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/YEYeQ0lIkBQ_0.wav", "captions": "A man talking then laughing as a ducks quack", "labels": "/m/015p6,/m/09ddx,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/KtTLsveexOg_210.wav", "captions": "A sewing machine running as a steam hisses followed by a machine motor sharply running in the background", "labels": "/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/5QZ0NtdoKJ8_200.wav", "captions": "Continuous digital beeps with a person speaking and bird chirping in the background", "labels": "/m/02fs_r,/m/07pp_mv,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_AcJVyToQUQ_60.wav", "captions": "Laughter and a female speaking and then a male vocalizing a sneezing sound", "labels": "/m/01j3sz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/kEP-BwMarf8_90.wav", "captions": "A wrapper crinkling and a woman's soft voice", "labels": "/m/09x0r,/t/dd00112"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7D7xgd4WJ50_0.wav", "captions": "A medium-pitched, metal bell is ringing", "labels": "/m/0395lw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/yVVLq4ao1Ck_30.wav", "captions": "Insects trill in the background, while birds chirp and flies buzz", "labels": "/m/015p6,/m/020bb7,/m/07pggtn"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/S0YE96w0YRk_120.wav", "captions": "A man speaking followed by a crowd of people laughing then applauding", "labels": "/m/028ght"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/lh801oHGtD4_30.wav", "captions": "A man talking as an electronic device hums followed by a door closing", "labels": "/m/01d380,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Pb6MqpdX5Jw_40.wav", "captions": "A horse gallops then trot on grass as gusts of wind blow and thunderclaps in the distance", "labels": "/m/0ngt1"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9U8COLzEegs_420.wav", "captions": "Water running softly in the background followed by several shrill beeps and a man speaking", "labels": "/m/02fs_r,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/dxow2DcTrwk_70.wav", "captions": "A man and a woman talking while rain falls, followed by a crash of thunder", "labels": "/m/0ngt1"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/a0yXS7PmVR0_30.wav", "captions": "Praying with mechanical noise in background", "labels": "/m/07qlf79"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0a9wVat2PWk_230.wav", "captions": "A train sounds horn and travels", "labels": "/m/0284vy3,/m/07jdr,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bgbnu5YKTDg_30.wav", "captions": "A man is speaking followed by gunfire", "labels": "/m/032s66"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CO6-i8NLbeo_0.wav", "captions": "A man talking followed by a goat baaing then a metal gate sliding shut as ducks quack and wind blows into a microphone", "labels": "/m/03fwl,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/pI_kPedctoo_10.wav", "captions": "An engine running and being revved and some muffled speech", "labels": "/m/04_sv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/EYTz1LPDHsc_30.wav", "captions": "A car door opening as a crow caws and birds chirp followed by a vehicle driving by in the background", "labels": "/m/02dgv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/D9tinq3RMpU_30.wav", "captions": "A large motor is running smoothly, water is splashing, people are talking in the background, and an adult male speaks in the distance", "labels": "/m/019jd,/m/02rlv9,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/EzWEO2WD_MM_70.wav", "captions": "High frequency humming followed by a smack", "labels": "/m/01d380"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/tfOIhQpYYe8_60.wav", "captions": "A helicopter flying as a man talks in the background", "labels": "/m/09ct_,/m/09x0r,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_w2pA1VeB40_70.wav", "captions": "Continuous laughter", "labels": "/m/01j3sz"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/JnSwRonB9wI_30.wav", "captions": "A muffled motorboat engine running as a group of people are laughing and screaming while water splashes and sprays", "labels": "/m/019jd,/m/02rlv9,/m/034srq,/m/05kq4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/paetCbEqp2w_60.wav", "captions": "Some light tapping on a computer keyboard and a baby crying", "labels": "/m/0463cq4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Ls1zyPjs3k8_280.wav", "captions": "A bleeping noise followed by a static noise", "labels": "/m/02fs_r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/K03ydb1uaoQ_40.wav", "captions": "Static sounds are vibrating along with snoring", "labels": "/m/01d3sd,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ific_gRalg0_30.wav", "captions": "A series of loud metal hammering as liquid drains down a pipe followed by a metal chain rattling", "labels": "/m/07swgks"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BlbGXalLNVU_70.wav", "captions": "Surf comes ashore as a man speaks", "labels": "/m/07pqc89"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1nUOGZgSzZo_30.wav", "captions": "Water is splashing and a man laughs", "labels": "/m/07swgks,/m/09x0r,/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/c0V_HAul7rI_30.wav", "captions": "People laugh and speak", "labels": "/m/01j3sz,/m/07rgt08,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AbplcXwXnvE_30.wav", "captions": "Female speaking followed by crinkling", "labels": "/m/09x0r,/t/dd00112"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/d1tL-9BILy8_30.wav", "captions": "Pigeons cooing followed by camera muffling", "labels": "/m/015p6,/m/020bb7,/m/07r_25d,/m/0h0rv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/onBZOH88OYs_30.wav", "captions": "Repeated bursts of spray", "labels": "/m/07qlf79"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3wV3ST-c4PE_30.wav", "captions": "Tick-tocking by a clock", "labels": "/m/07qjznl"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/y93cZqNCtks_470.wav", "captions": "A man talking as footsteps run on concrete followed by a series of gunshots firing a gun cocking while another man talks in the background before a dog growls", "labels": "/m/032s66,/m/04zjc"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/L2dyilgQ8iM_20.wav", "captions": "Muffled rustling noise over wind blowing over a microphone", "labels": "/m/09t49,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/WWkhzcmx3VE_320.wav", "captions": "A duck quacking", "labels": "/m/09ddx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/u9px4Lwv9XI_30.wav", "captions": "Footsteps and a croaking frog", "labels": "/m/07st88b,/m/09ld4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/hrv6fwnmBkY_28.wav", "captions": "A dog whimpering followed by laughing and barking.", "labels": "/m/068hy,/m/07rc7d9,/m/09b5t,/m/09x0r,/m/0bt9lr,/m/0jbk,/t/dd00136"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/zEaGx6an4es_270.wav", "captions": "A sustained and coarse drilling noise", "labels": "/m/01d380,/m/07k1x"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/E6FH_xp3I54_60.wav", "captions": "A man is speaking followed by birds chirping", "labels": "/m/07pggtn,/m/09x0r,/m/0jbk,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Dt53UZgyznE_9.wav", "captions": "Baby cries and then man speaks", "labels": "/m/09x0r,/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/OMGHnJV0l2U_350.wav", "captions": "Scraping and banging", "labels": "/m/02p01q,/m/07pdjhy,/m/083vt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-NsC63dA01g_10.wav", "captions": "An adult female speaks as a cat meows three times, and an electronic device plays in the background", "labels": "/m/01yrx,/m/068hy,/m/07qrkrw,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/fGGYeXR_LS8_30.wav", "captions": "Whistling is ongoing while an adult male speaks, and water is pattering in the background", "labels": "/m/01w250,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/hJtOGmN_KVw_140.wav", "captions": "Plastic crinkling and paper sliding as a man talks", "labels": "/m/09x0r,/t/dd00112,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/UmNrhFKpWIY_21.wav", "captions": "A car engine revs and then shuts off", "labels": "/m/07q2z82,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/xBZnvfniA1c_30.wav", "captions": "A man speaks, and a child speaks followed by laughter", "labels": "/m/09x0r,/m/0ytgt,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/UCy1BEx8jBE_50.wav", "captions": "A man speaking as a stream of water sprays and splashes", "labels": "/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/F7QtqKtllK0_50.wav", "captions": "A person snores", "labels": "/m/01d3sd"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/alaxBd_EEUc_40.wav", "captions": "A man speaks briefly followed by a succession of several eructations", "labels": "/m/03q5_w,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/xYwpABpZed4_370.wav", "captions": "A woman speeches while cooks", "labels": "/m/07ptfmf,/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/lfO471Rn61k_230.wav", "captions": "Steam escapes with a hissing noise", "labels": "/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/HZ9O6sc7cLA_180.wav", "captions": "A woman speaks followed by a dog barking", "labels": "/m/05tny_,/m/07rc7d9,/m/0bt9lr"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/41D0yXSBqfI_30.wav", "captions": "Pigeons cooing and bird wings flapping while gravel shuffles and wood clacks", "labels": "/m/015p6,/m/0h0rv,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/J0yeFeKvIt8_30.wav", "captions": "Wind blowing and leaves rustling followed by plastic clicking and wind blowing into a microphone", "labels": "/m/09t49"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/KvrcRMfFzOE_150.wav", "captions": "A helicopter is in flight with loud blades moving fast", "labels": "/m/07yv9,/m/09ct_,/m/0k5j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7cHRSfbp7tc_26.wav", "captions": "A group of people talking as dishes clack followed by wood knocking", "labels": "/m/02dgv,/m/07r4wb8,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/NeWW30WZjPc_10.wav", "captions": "A dog barks and rustles with some clicking", "labels": "/m/01z5f,/m/05tny_,/m/068hy,/m/07rc7d9,/m/0bt9lr,/m/0jbk,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/dYvL6uEMl6E_60.wav", "captions": "A helicopter flying followed by wind heavily blowing into a microphone", "labels": "/m/019jd,/m/02rlv9,/m/034srq,/m/03m9d0z,/m/05kq4,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/jjHIINDfE1c_20.wav", "captions": "A tractor driving by as a car horn honks while wind blows into a microphone", "labels": "/m/07yv9,/m/0912c9,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/sqsI2UyrcBQ_30.wav", "captions": "A vehicle engine accelerating and revving", "labels": "/m/07q2z82,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/jOYvIISk--4_110.wav", "captions": "A man speaking followed by a faucet turning on and off while pouring water twice proceeded by water draining down a pipe", "labels": "/m/0130jx,/m/02jz0l,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3MoF8myFs8Y_0.wav", "captions": "A strong wind is blowing and constant background waves can be heard", "labels": "/m/034srq,/m/03m9d0z,/m/05kq4,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/PMMkPq5jJXY_0.wav", "captions": "A person burps as people laugh", "labels": "/m/03q5_w,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AtkD-3GjXMw_40.wav", "captions": "Singing and music with faint gunshots", "labels": "/m/032s66,/m/04zjc"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6Nvu6EcpdE8_30.wav", "captions": "Wind blows and a man speaks with a quick pop", "labels": "/m/07pb8fc,/m/07yv9,/m/09x0r,/t/dd00130"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/zoxFl3pddMg_2.wav", "captions": "A frog chirping with distant speaking of a person", "labels": "/m/09ld4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/VQnmlf2OsUg_50.wav", "captions": "A toy helicopter flying", "labels": "/m/09ct_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/B4SZwi9Ce3o_30.wav", "captions": "A man talking and plastic clicking as a vehicle engine accelerates", "labels": "/m/07q2z82,/m/07yv9,/m/09x0r,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9ucb5HYO8ps_20.wav", "captions": "A burp followed by laughter and speech", "labels": "/m/03q5_w,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/NJEPbGVBJIQ_10.wav", "captions": "A man speaks followed by a vehicle revving", "labels": "/m/012f08,/m/04_sv,/m/07yv9,/m/09x0r,/m/0btp2,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ZYWCwfCkBp4_30.wav", "captions": "Rustling and sanding on wood with distant music playing", "labels": "/m/01b82r,/m/07pdjhy,/m/083vt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/UhCzD6EBJBU_180.wav", "captions": "A power tool drilling followed by metal clacking then a man talking proceeded by a door closing shut", "labels": "/m/01d380,/m/07k1x,/m/0_ksk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/TQr9v-PQOc4_0.wav", "captions": "A person sneezes and coughs", "labels": "/m/01hsr_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0NGSrwioYjA_30.wav", "captions": "A man speaking followed by a goat baaing", "labels": "/m/03fwl,/m/068hy,/m/09ld4,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6Pywt0f_NFY_160.wav", "captions": "Water trickling as a machine hums in the background followed by water spraying", "labels": "/m/02jz0l,/m/03dnzn,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/h5_1pnkl_SY_50.wav", "captions": "Middle aged man speaks foreign language while water is trickling", "labels": "/m/02jz0l,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/fx4r_KuW6No_50.wav", "captions": "Adult female is speaking and a young child is crying", "labels": "/m/09x0r,/m/0ytgt,/t/dd00126"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9F3sutgYTvo_30.wav", "captions": "A man is speaking and a baby whimpers followed by a woman talking", "labels": "/m/09x0r,/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7P6lcyeDKNI_0.wav", "captions": "A bicycle peddling on dirt and gravel followed by a man speaking then laughing", "labels": "/m/0199g,/m/04_sv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/QHfyKaOHSz4_0.wav", "captions": "A fly buzzing and a frog croaking with musical sounds", "labels": "/m/07st88b,/m/09ld4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/SE_3nszEw7o_22.wav", "captions": "Hissing and clinking", "labels": "/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_iUX8CibElk_120.wav", "captions": "Humming sounds from a distance", "labels": "/m/0ngt1"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2JutOgAnqWA_120.wav", "captions": "A tool motor is running, a rattling sound occurs, then humming also, then soft squealing occurs", "labels": "/m/01d380,/m/07k1x,/m/0_ksk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bX2vDaHL26U_60.wav", "captions": "A car skidding its tires and racing away", "labels": "/m/07rknqz,/m/07yv9,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Xf5LjaE_JQ0_30.wav", "captions": "Traffic sounds going by as man speaks", "labels": "/m/07qlf79,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Ch0LMmhBUg4_260.wav", "captions": "A man speaks with some distant hum and a child speaking", "labels": "/m/03m9d0z,/m/06q74,/m/07yv9,/m/09x0r,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/l5KdHAWwJCw_30.wav", "captions": "Ticking of a clock", "labels": "/m/07qjznl"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/VE6Ku0-ucUM_30.wav", "captions": "A man speaks followed by a popping noise and laughter", "labels": "/m/07qsvvw,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/YIqpIjjee00_30.wav", "captions": "A flush occurs with water splashing and gurgling, and then water runs steadily", "labels": "/m/01jt3m"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ItS07xtdi4s_30.wav", "captions": "Fire igniting as a motor runs followed by an electronic beep and vehicle engines running idle then car horns honking", "labels": "/m/07qsvvw,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/HeEa1GZpUGI_30.wav", "captions": "Several gunshots followed by a click and glass breaking", "labels": "/m/032s66"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/jjfUaMQaG1A_310.wav", "captions": "A man talking followed by plastic clacking then a power tool drilling", "labels": "/m/01d380,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/79XDcI6xZm0_30.wav", "captions": "A crowd chants, an adult male speaks in the foreground, a member of the crowd shouts, and the adult male continues to speak", "labels": "/m/02qldy,/m/05zppz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/52IxrdTxGs4_30.wav", "captions": "An explosion and heart beating as instrumental music plays followed by a man talking", "labels": "/m/07qsvvw,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/lJayhiVzl_E_60.wav", "captions": "Humming and rumbling of a powerful engine with wind blowing", "labels": "/m/019jd,/m/02rlv9,/m/03m9d0z,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Ls2vrr9TamU_120.wav", "captions": "Drilling and crackling", "labels": "/m/083vt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4SZ7JXDCNps_210.wav", "captions": "A car engine revving", "labels": "/m/07yv9,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/zIgGMlZENTs_30.wav", "captions": "A duck quacks followed by a man talking", "labels": "/m/07qdb04,/m/09ddx,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1GgEpRZDWN0_410.wav", "captions": "A man and woman speak", "labels": "/m/01h8n0,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/qF72bT878gw_14.wav", "captions": "Humming from an engine with wind blowing hard", "labels": "/m/019jd,/m/02rlv9,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/VeCSHwtkBZU_30.wav", "captions": "A police siren going off", "labels": "/m/012n7d,/m/03j1ly,/m/03kmc9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Z1Cyj4N05lk_140.wav", "captions": "Whistling with small rustling and groaning", "labels": "/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/XplKBvZaHXA_160.wav", "captions": "A man talking as a motorbike engine revs and accelerates", "labels": "/m/04_sv,/m/07yv9,/m/09x0r,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/hzn_wGlzGpU_90.wav", "captions": "An aircraft engine accelerating followed by an object clanking against fiberglass as an emergency siren sounds in the background", "labels": "/m/07yv9,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0yxEvdnimGg_30.wav", "captions": "Dogs are barking with wind noise while people are speaking", "labels": "/m/068hy,/m/07rc7d9,/m/09x0r,/m/0bt9lr,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/LKhokVsJhN0_210.wav", "captions": "A flock of sheep baaing", "labels": "/m/07bgp,/m/0ch8v,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Rp4Ct_TQvAM_520.wav", "captions": "Rain falling as a machine motor runs followed by a man speaking", "labels": "/m/06mb1,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9BGLAUSF0sk_30.wav", "captions": "An idling engine humming non stop", "labels": "/m/01jwx6,/m/0chx_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_duNX6Vyd6g_30.wav", "captions": "A motorboat drives on water quickly", "labels": "/m/019jd,/m/02rlv9,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7QN3lwOzfdg_0.wav", "captions": "An adult speaks over a telephone and then an adult male speaks, and this pattern repeats three times", "labels": "/m/07cx4,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/OUUckswAaNI_100.wav", "captions": "Male speaking and birds chirping", "labels": "/m/02dgv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AgaiowyYt88_30.wav", "captions": "A loud bang followed by silence", "labels": "/m/02dgv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Tdl9SmBbRnA_50.wav", "captions": "A man is talking as a motor vehicle engine travels", "labels": "/m/012f08,/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6OlHuvJR_Dk_30.wav", "captions": "Helicoptor flying", "labels": "/m/07yv9,/m/09ct_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bygBWUkpaC8_270.wav", "captions": "A man speaking with light wind followed by brief silence then birds chirping.", "labels": "/m/020bb7,/m/07pggtn,/m/09x0r,/m/0jbk,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/FfUqv0Vv3ME_20.wav", "captions": "A horse walks while an adult male speaks, an adult female speaks briefly, and roosters are crowing in the distance", "labels": "/m/03k3r,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/pgq2KPX5_SA_70.wav", "captions": "Some crinkling of cellophane", "labels": "/t/dd00112"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/H7rd9bZtbgc_330.wav", "captions": "Bells ringing repeatedly", "labels": "/m/0395lw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/O90Qy2xG6oA_30.wav", "captions": "Crying and screaming with some coughing", "labels": "/m/068hy,/m/0jbk,/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/GuizRlAQ8qQ_50.wav", "captions": "High powered vibrations from a power tool", "labels": "/m/01d380"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/oOMtaqvQ3_M_170.wav", "captions": "A helicopter flying with wind heavily blowing into a microphone", "labels": "/m/07yv9,/m/09ct_,/m/0k5j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2ymiXjImwGs_9.wav", "captions": "Emergency vehicle driving with siren on", "labels": "/m/012ndj,/m/01bjv,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/WmDe2xbnSY4_190.wav", "captions": "Gunshots and explosions", "labels": "/m/07qsvvw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-DmjkgWa-rw_10.wav", "captions": "A bell ringing repeatedly", "labels": "/m/0395lw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/KtinboYbmHQ_50.wav", "captions": "Tires squeal and an engine hums as a vehicle approaches", "labels": "/m/07rknqz,/m/07yv9,/m/0h9mv,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rUq4w4EUSWA_0.wav", "captions": "An electronic motor buzzing and paper tearing followed by a bell chiming and a plastic click then a toilet flushing as paper crinkles in the background", "labels": "/m/01jt3m,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0rSETXszQM0_100.wav", "captions": "Plastic clacking followed by a motorbike and a motorcycle engine starting up then accelerating", "labels": "/m/028v0c,/m/04_sv,/m/07yv9,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/fwhkCnOeyC0_350.wav", "captions": "A man and a woman talking followed by a bell ringing and a cat meowing as a crowd of people applaud", "labels": "/m/028ght,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/EbpOXac13yo_30.wav", "captions": "Loud bus roaring and voices", "labels": "/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_YS5uKWoB6g_30.wav", "captions": "A baby cries as adults speak with clicking and banging of a car door", "labels": "/m/09x0r,/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/yhDw7PZje3g_30.wav", "captions": "Many insects are buzzing, and an adult male speaks", "labels": "/m/01h3n,/m/09x0r,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/jlwe9jtu5Gw_50.wav", "captions": "A couple of whistling sounds one after another", "labels": "/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4KObP7cREWw_40.wav", "captions": "Engine running and revving", "labels": "/m/02mk9,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/35b9BSmN5JM_1.wav", "captions": "A wooden thud as an idle car engine runs then accelerates", "labels": "/m/07q2z82,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/SGaIvgwwWSE_30.wav", "captions": "Rain and thunder", "labels": "/m/06mb1,/m/0jb2l,/m/0ngt1"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2j8pxiFvElM_0.wav", "captions": "A cat is meowing in a quiet environment", "labels": "/m/01yrx,/m/068hy,/m/07qrkrw,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/11SEBDuoqSk_50.wav", "captions": "An engine chugging loudly together with gunfire", "labels": "/m/07yv9,/m/0cmf2,/m/0k5j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/jid4t-FzUn0_20.wav", "captions": "A man speaks followed by a goat bleat", "labels": "/m/03fwl,/m/07s04w4,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4Ujigme2IxY_30.wav", "captions": "An engine humming and brakes squealing", "labels": "/m/01jwx6"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bpv_LneHmfU_10.wav", "captions": "An engine running", "labels": "/m/014yck,/m/07yv9,/m/0cmf2,/m/0k5j,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0Rpjl1AO-P0_30.wav", "captions": "A car engine idling then starts to rev shortly after", "labels": "/m/07yv9,/m/0k4j,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/FKaJsvcyHTk_0.wav", "captions": "A baby grunts and begins crying", "labels": "/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Jon_DEFqsfM_30.wav", "captions": "Wind blowing with ducks quacking and birds chirping", "labels": "/m/020bb7,/m/06_y0by,/m/09ddx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/xUWSHYoslPQ_90.wav", "captions": "A man is getting a glass and setting in down on a hard surface", "labels": "/m/04brg2,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/g5l3Bz6lWnc_250.wav", "captions": "Insects buzzing as wood lightly shuffles and birds chirp in the distance", "labels": "/m/01h3n,/m/03vt0"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/u8bQf0SnCVI_30.wav", "captions": "Some light banging followed by water splashing", "labels": "/m/0130jx,/m/02jz0l,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bUTOsLXYyxg_220.wav", "captions": "Man speaking followed by group laughter", "labels": "/m/01j3sz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6eX6bJOFftA_11.wav", "captions": "Ducks quack and men speak with distant humming", "labels": "/m/02rlv9,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2ErfX6ZT5pM_0.wav", "captions": "A toilet flushing", "labels": "/m/01jt3m"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/FDwK7T1JO_0_160.wav", "captions": "A male voice and then drilling", "labels": "/m/01d380,/m/07k1x,/m/09x0r,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/40cuHrYfaqA_0.wav", "captions": "A dog barking and growling followed by a man talking in the background", "labels": "/m/068hy,/m/07rc7d9,/m/09x0r,/m/0bt9lr,/m/0jbk,/t/dd00136"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/XrJcmftCY04_180.wav", "captions": "A crowd of people applauding and cheering", "labels": "/m/028ght"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/a_Rjlu50TfA_0.wav", "captions": "A series of sharp, squeaky snoring noises", "labels": "/m/01d3sd,/m/07q0yl5,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1DKLyH3FixM_100.wav", "captions": "Nature sounds with birds chirping", "labels": "/m/015p6,/m/020bb7,/m/07pggtn"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6NBPiArs2-w_80.wav", "captions": "Footsteps followed by rapid gunshots and people speaking", "labels": "/m/032s66"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/uJzAf4PaExI_180.wav", "captions": "An engine idling consistently", "labels": "/m/07yv9,/m/09x0r,/m/0k5j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/JQz40TkjymY_30.wav", "captions": "Typing on a keyboard is ongoing in a quiet environment", "labels": "/m/01m2v,/m/0316dw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/kdflh3akyH8_20.wav", "captions": "Several puppies yapping", "labels": "/m/0ghcn6,/m/0jbk,/t/dd00136"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/lmPMhs-9IYE_0.wav", "captions": "A vehicle engine revving as a crowd of people talk and whistle in the background", "labels": "/m/07yv9,/m/09x0r,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/hGWarNR6xmg_110.wav", "captions": "Repetitive loud hissing with some static", "labels": "/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Zsf2YvJfCKw_20.wav", "captions": "Water trickling followed by a toilet flushing then liquid draining through a pipe", "labels": "/m/01jt3m"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/nq0BF9zGkzg_30.wav", "captions": "An animal cries, followed by a crash, then two people speak with one another", "labels": "/m/09x0r,/t/dd00018"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/vigslb0kClE_100.wav", "captions": "Goats bleating and a man speaking", "labels": "/m/03fwl,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2t82STv2GR8_110.wav", "captions": "Several church bells ringing", "labels": "/m/0395lw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/zoctgurhvHE_70.wav", "captions": "A man speaks with some clicking as wind blows and a distant motor hums", "labels": "/m/012f08,/m/02dgv,/m/04gxbd,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/RdC8cviN6Bs_30.wav", "captions": "Rain falling followed by fabric rustling and footsteps shuffling then a vehicle door opening and closing as plastic crinkles", "labels": "/m/06mb1,/t/dd00038"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/B8rdur4aams_30.wav", "captions": "Rustling and shaking followed by a horn and gusts of wind", "labels": "/m/07yv9,/m/0912c9,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3wrdPAeqjVI_80.wav", "captions": "A man talking followed by a camera muffling and footsteps shuffling then wood lightly clanking", "labels": "/m/083vt,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6cS0FsUM-cQ_30.wav", "captions": "An adult male speaks, a cat caterwauls and hisses angrily, and an adult female speaks", "labels": "/m/01yrx,/m/068hy,/m/07qrkrw,/m/07r81j2,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/59VP93Tzjmg_40.wav", "captions": "Distant honks of a train horn with leaves rustling", "labels": "/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3VHpLxtd498_30.wav", "captions": "Humming with coos of pigeons and brief distant speaking", "labels": "/m/015p6,/m/09x0r,/m/0h0rv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Rtenf2XSXRc_5.wav", "captions": "A vehicle engine running idle then revving several times before a car door slams shut", "labels": "/m/07q2z82,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/T32kii824pA_240.wav", "captions": "A male speech and metal clanging.", "labels": "/m/083vt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/JBWJQCS4SvA_30.wav", "captions": "Wind noise on microphone with waves splashing in the background", "labels": "/m/034srq,/m/03m9d0z,/m/05kq4,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/jf4iyQPJSvk_20.wav", "captions": "Water flowing and trickling", "labels": "/m/07pqc89,/m/0838f,/m/0j2kx,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/js4dr5JusdM_30.wav", "captions": "A woman and man talk on the phone", "labels": "/m/07cx4,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-EQByFLFqig_21.wav", "captions": "A man speaks as rain pitter-patters and thunder rumbles", "labels": "/m/06mb1,/m/0ngt1,/t/dd00038"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/HVz-FJBf_iM_10.wav", "captions": "A toilet flushing", "labels": "/m/01jt3m,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BXxlqaDvdaA_30.wav", "captions": "Male speech and wind blowing hard over microphone", "labels": "/m/05kq4,/m/07yv9,/m/09x0r,/m/0hsrw,/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1PvMtRIlZNI_0.wav", "captions": "Gurgling and splashing water", "labels": "/m/07swgks"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/PMMdAKZxI_I_40.wav", "captions": "Burping and laughing by girls with distant speaking of a television", "labels": "/m/03q5_w,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/j0KvrVE_Oww_12.wav", "captions": "A door shutting followed by two men talking then a horn honking and slapping on a wooden surface", "labels": "/m/0912c9,/m/09x0r,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/huMLK0oA3L8_110.wav", "captions": "A man talking then whistling as guitar music plays", "labels": "/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ilspW7JRjAg_50.wav", "captions": "A motor vehicle engine is revving", "labels": "/m/012f08,/m/02mk9,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/EvZ3jOMYWxk_30.wav", "captions": "A woman is speaking in a quiet environment", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/L_CNz9Vrtkw_100.wav", "captions": "A man speaks followed by a crowd applauding", "labels": "/m/028ght,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BL8ksJ0sTXk_260.wav", "captions": "An engine is idling followed by a male speaking", "labels": "/m/01jwx6,/m/07pb8fc,/m/07yv9,/m/09x0r,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4xrL4TSgHwU_30.wav", "captions": "A vehicle engine stuttering while starting up then running idle", "labels": "/m/02mk9,/m/07pb8fc,/m/07q2z82,/m/07yv9,/t/dd00066,/t/dd00130"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ITlqMkR5alY_0.wav", "captions": "Wind blows hard followed by screaming", "labels": "/m/03fwl,/m/09x0r,/m/0ch8v,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Ivg_q4t-3w0_1.wav", "captions": "White noise followed by brief, muffled speech and rustling", "labels": "/m/02dgv,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/wNiYSYJXssA_460.wav", "captions": "People are speaking followed by crowd noise", "labels": "/m/03k3r,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/zBXoaQ1GVlc_380.wav", "captions": "Several children speaking and screaming with a woman speaking briefly", "labels": "/m/09x0r,/m/0ytgt,/t/dd00013,/t/dd00126"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/f2fSxfvmkZQ_310.wav", "captions": "A man talking as metal thumps followed by plastic rustling then a power tool drilling while a metal pot clangs against a hard surface", "labels": "/m/01d380,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/U90e2P9jy30_30.wav", "captions": "A man yelling in the background as several basketballs bounce and shoes squeak on a hardwood surface", "labels": "/m/07pqc89,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/MPLZUg89y5U_90.wav", "captions": "Men speak with humming of an engine and some rustling", "labels": "/m/07r04,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/elztUCeNQvQ_10.wav", "captions": "A train horn honking followed by a subway train running on railroad tracks", "labels": "/m/0195fx,/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AizmnCDlXos_8.wav", "captions": "A bell ticks with a thumping noise", "labels": "/m/07qjznl,/m/07qjznt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ZBtgrP4vU_w_50.wav", "captions": "Food and oil sizzling", "labels": "/m/07p9k1k"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3qrVku794u0_12.wav", "captions": "A man speaks followed by a beep and a child speaks", "labels": "/m/02fs_r,/m/09x0r,/m/0fx9l"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ktc_tJxw8sc_50.wav", "captions": "Low scratching groaning", "labels": "/m/0463cq4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/dP5DbAzTl5M_30.wav", "captions": "A motorboat engine running and a man speaking", "labels": "/m/019jd,/m/02rlv9,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/LWng-4PDzPM_320.wav", "captions": "Rustling followed by whistling", "labels": "/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/IvfaKPDWC00_160.wav", "captions": "A siren ringing with a vehicle speeding closer", "labels": "/m/012f08,/m/012ndj,/m/03j1ly,/m/03kmc9,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-nQHwrRLfc0_30.wav", "captions": "Engine running steadily", "labels": "/m/02mk9,/m/07pb8fc,/t/dd00066"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1e98HeU9Vrg_20.wav", "captions": "Waves crash on a beach while the wind blows", "labels": "/m/034srq,/m/03m9d0z,/m/05kq4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1slvoNgzBLE_160.wav", "captions": "An electronic signal followed by compressed air releasing then an electronic bell playing as a train runs on tracks in the background", "labels": "/m/01g50p,/m/06d_3,/m/07jdr,/m/07yv9,/m/0912c9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/frOqlk0Wm5Y_30.wav", "captions": "A man speaking with intermittent metal scraping.", "labels": "/m/07pdjhy"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/JZloTOdIY_c_30.wav", "captions": "Horses neighing and snorting while trotting on grass", "labels": "/m/03k3r,/m/07q5rw0,/m/07rv9rh,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/IJ6pm5Kns8A_170.wav", "captions": "Woman speaks, girl speaks, clapping, croaking noise interrupts, followed by laughter", "labels": "/m/03q5_w,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/h0M4RS8p_mo_0.wav", "captions": "A man laughs followed by a baby crying", "labels": "/m/01j3sz,/m/0463cq4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/z4MeV9IGVo0_30.wav", "captions": "Humming from loud engines with men speaking over the radio", "labels": "/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/63KW_EQ72yU_30.wav", "captions": "A loud explosion as gusts of wind blow", "labels": "/m/014zdl,/m/07qsvvw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Jfaj4P3us9M_27.wav", "captions": "A phone dial tone playing followed by a plastic switch flipping", "labels": "/m/02c8p,/m/07cx4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-NrFeH-kBSM_0.wav", "captions": "Clicks of weapons being loaded followed by a gunshot and a clink then a man speaks", "labels": "/m/032s66"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/nlC4UI4hZ60_10.wav", "captions": "An engine being turned over", "labels": "/m/012f08,/m/02mk9,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/E3D_z0aoUEg_30.wav", "captions": "A croaking frog with brief bird chirps", "labels": "/m/07st88b,/m/09ld4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/E3Q1jfTeuWs_30.wav", "captions": "A baby cries followed by rustling and heavy breathing", "labels": "/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/woadpeAGHUQ_70.wav", "captions": "An emergency siren blaring steadily", "labels": "/m/012ndj,/m/03j1ly,/m/03kmc9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/xIztYnMIWUA_30.wav", "captions": "An old fashioned telephone ring occurs repeatedly, and buzzing is present in the background", "labels": "/m/01hnzm,/m/07cx4,/m/07pp8cl"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3ghVB-KaU_E_30.wav", "captions": "A man is speaking with hissing background noises", "labels": "/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/y3-M1sonh3M_0.wav", "captions": "Clinking followed by a toilet flushing", "labels": "/m/01jt3m"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ir1XTdyt4IY_18.wav", "captions": "Released air hissing followed by a popping explosion then a metal ding persists as a person is laughing and a man is talking.", "labels": "/m/014zdl,/m/07qsvvw,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/WU3qB7gf6ao_30.wav", "captions": "An electronic beep and several faints ticks", "labels": "/m/02fs_r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/D1Sy7kRoaR8_30.wav", "captions": "A woman speaks via a public address system", "labels": "/m/03k3r,/m/07rv9rh,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Wq4OD3olO2w_90.wav", "captions": "A man talks followed by laughter, and a woman and children communicate", "labels": "/m/07r660_,/m/09x0r,/m/0ytgt,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ARFFw0e_jig_20.wav", "captions": "A loud distorted belch followed by a series of burping", "labels": "/m/03q5_w"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3RultJjvTWI_400.wav", "captions": "'A group of young adults laughing followed by a man shouting as a stream of water splashes and flows while wind blows", "labels": "/m/019jd,/m/034srq,/m/03m9d0z,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/fK4QBQZ6i7w_290.wav", "captions": "People are laughing and chuckling", "labels": "/m/01j3sz,/m/07rgt08,/m/07s04w4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/A61Mry8zBwE_30.wav", "captions": "Applause from a crowd with distant clicking and a man speaking over a loudspeaker", "labels": "/m/07rv9rh,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/d6gu2w19YQo_70.wav", "captions": "An baby laughing", "labels": "/m/01j3sz"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AagLJkfrFMk_60.wav", "captions": "Water hissing followed by a man breathing loudly then a toilet flushing", "labels": "/m/01jt3m"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rjUrB1WUpcI_14.wav", "captions": "Water drains with gurgling noise", "labels": "/m/07swgks"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9BukzlPNqC8_60.wav", "captions": "Soft drilling noise", "labels": "/m/01d380,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8OTd45_6cvY_30.wav", "captions": "Footsteps running on a hard surface followed by liquid spraying then an animal growling as static plays in the background", "labels": "/m/07qlf79"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Pg2cWEnEEvc_60.wav", "captions": "Burping noises followed by tongue clapping sounds", "labels": "/m/03q5_w"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bIiiIo20PsY_10.wav", "captions": "A man speaking as insects are buzzing and wind is blowing into a microphone", "labels": "/m/01h3n,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/NDaVSIJaXVs_410.wav", "captions": "Aircraft engine and loud background roar", "labels": "/m/014yck,/m/07yv9,/m/0cmf2,/m/0k5j,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/gr5Zss89yLQ_30.wav", "captions": "A woman speaks, and a motor vehicle revs its engine", "labels": "/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6ZFU4PqXmoI_6.wav", "captions": "A construction vehicle engine running and water splashing as wood crackles and snaps followed by electronic beeping and a man talking", "labels": "/m/019jd,/m/02rlv9,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3IScngdQA4I_8.wav", "captions": "A door shutting and a female speaking", "labels": "/m/02dgv,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0fMXnvD38zI_50.wav", "captions": "Ocean waves crashing as water trickles as gusts of wind blow and seagulls squawk in the distance", "labels": "/m/019jd,/m/034srq,/m/03m9d0z,/m/05kq4,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/XZTt1xdK8uQ_30.wav", "captions": "An engine is accelerating", "labels": "/m/07swgks"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/WOywdRmySs0_190.wav", "captions": "A man talking followed by plastic crinkling and crumpling", "labels": "/m/09x0r,/t/dd00112"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Yk274Wr5iIE_60.wav", "captions": "Wind and water splashing and trickling", "labels": "/m/06mb1"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/o_3MDLl_aH0_20.wav", "captions": "Loud explosions and burst that echo", "labels": "/m/032s66,/m/0_1c"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ErxgH5g3Kx0_30.wav", "captions": "Hissing and buzzing of insects with a horse neigh and clip clops", "labels": "/m/03k3r,/m/07rv9rh,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/e4ph6bIC5zc_170.wav", "captions": "Distant murmuring and distant engine revving", "labels": "/m/012f08,/m/07yv9,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/dkiwn2FdDVw_0.wav", "captions": "A woman speaks with distant quacks of a duck", "labels": "/m/09ddx,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4s2rRnu2PZo_30.wav", "captions": "Music plays continuously along with swooshing followed by a man speaking quickly", "labels": "/m/07rqsjt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AMQei29haCw_20.wav", "captions": "Buzzing and humming of a motor with a man speaking", "labels": "/m/01d380"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AKHZMg9ba30_30.wav", "captions": "Clip-clop of horse while man speaks", "labels": "/m/07rv9rh,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/TwR8BA6buMI_30.wav", "captions": "A piano playing as a clock ticks", "labels": "/m/07qjznl"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Lxu-3_h4kc4_0.wav", "captions": "Burping and then laughter", "labels": "/m/03q5_w"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Or7umk40TZA_6.wav", "captions": "An engine is idling with vibrating noises", "labels": "/m/01jwx6"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/V4PLSw_WzVw_10.wav", "captions": "A vehicle engine revving as tires skid and squeal", "labels": "/m/07r04,/m/07rknqz,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/jXkLS_QzUrI_29.wav", "captions": "A small motor is running, five hisses and a meow occur, then five more hisses and a meow occur", "labels": "/m/068hy,/m/07qrkrw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AJtNitYMa1I_2.wav", "captions": "Food and oil sizzling", "labels": "/m/07p9k1k,/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/R4fXcbWFhJg_10.wav", "captions": "Horses run in the distance then a man speaks and a woman cheers then talks", "labels": "/m/03k3r,/m/09x0r,/m/0ch8v,/m/0jbk,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/YflmW68gL4E_160.wav", "captions": "Burping and laughing from a young girl", "labels": "/m/03q5_w,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/xQDq3A4Zfbo_30.wav", "captions": "Water splashes and wind blows", "labels": "/m/019jd,/m/034srq,/m/03m9d0z,/m/05kq4,/m/0hsrw,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/inSvboaSRwA_100.wav", "captions": "A machine motor running as a man is speaking followed by rapid buzzing", "labels": "/m/07k1x,/m/083vt,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/n74IYuCe_ms_110.wav", "captions": "A stream of water rushing and trickling followed by a young man whooshing", "labels": "/m/09x0r,/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/szkiW0GXEOI_100.wav", "captions": "Whistling with birds chirping", "labels": "/m/015p6,/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2RjqBRzmxaM_30.wav", "captions": "Music with rain falling and a woman speaking", "labels": "/m/06mb1,/m/07r10fb,/t/dd00038"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/dmUOSyPXkUw_200.wav", "captions": "Compressed air and steam releasing with a man faintly talking in the background", "labels": "/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/eUecAF626A8_100.wav", "captions": "Vehicles hum and vibrate as they rev their engines", "labels": "/m/07yv9,/m/09x0r,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/hmd6pa2e_rs_30.wav", "captions": "A bus engine is running, and people are talking", "labels": "/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/MTIF_l_8d4Q_0.wav", "captions": "A baby is crying and a child speaks in the background, then an adult female speaks and the baby sobs", "labels": "/m/0463cq4,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/MTaLknnq4wc_60.wav", "captions": "Whistling with some distant humming and a girl singing", "labels": "/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2KR0C5ysO8o_30.wav", "captions": "An engine revving continuously", "labels": "/m/02mk9,/m/07pb8fc,/m/07q2z82,/m/07yv9,/m/09x0r,/t/dd00066"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Kel-hfZ_9h8_10.wav", "captions": "Crunching and scraping followed by a child and a man speaking", "labels": "/m/09x0r,/m/0ytgt,/t/dd00013"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/yVjivgsU2aA_10.wav", "captions": "An engine running followed by the engine revving and tires screeching", "labels": "/m/012f08,/m/07rknqz,/m/07yv9,/m/09x0r,/m/0h9mv,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/fYTZVxQ8LJk_0.wav", "captions": "A woman is speaking, and a child speaks", "labels": "/m/09x0r,/m/0ytgt,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3xDZ-kdGE3o_10.wav", "captions": "Metal clacking followed by a door closing as water trickles then a toilet flushing", "labels": "/m/01jt3m,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/RfGapDlAYoQ_30.wav", "captions": "Musical whistling with wind blowing", "labels": "/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/QKHpSAAjakY_60.wav", "captions": "A motorcycle engine is running, and a man is talking", "labels": "/m/04_sv,/m/07yv9,/m/09x0r,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/i1u_2eZYYlE_0.wav", "captions": "An idle vehicle engine running", "labels": "/m/07pb8fc,/m/07r04,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/UE3XnVFodMI_230.wav", "captions": "Loud applause and woman speaking", "labels": "/m/028ght,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/y1a8PntuXYw_0.wav", "captions": "Mechanical humming followed by a flushing toilet", "labels": "/m/01jt3m"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/kgjNIDmO8a8_30.wav", "captions": "Emergency vehicle siren blasts while a man talks", "labels": "/m/012ndj,/m/03j1ly,/m/03kmc9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/473wBEwC35M_30.wav", "captions": "A man speaking as a vehicle horn honks and a man speaks in the distance", "labels": "/m/02qldy,/m/05zppz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/5ye0X5saadg_30.wav", "captions": "Helicopter running, speech on a radio, and then gunfire", "labels": "/m/09ct_,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/r2djvq1vc68_20.wav", "captions": "A faucet pouring water as water fills a container followed by scrubbing on a plastic surface and water splashing", "labels": "/m/0130jx,/m/02jz0l,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/L8dA-2Lu2hY_20.wav", "captions": "A person whistling", "labels": "/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/sTMKled6Q1M_30.wav", "captions": "Whistling with pigeons cooing, wings flapping, and birds chirping", "labels": "/m/015p6,/m/0h0rv,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/vEWmHtiznF8_30.wav", "captions": "An engine running and a male speech", "labels": "/m/012f08,/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/tpm5IOD5d4o_30.wav", "captions": "An adult female speaks and claps, a bird whistles in the foreground, another bird chirps in the background, and then a human whistles a tune", "labels": "/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9xoYx3lTJ9I_5.wav", "captions": "Wind noise while a water vehicle is traveling across water, and a man talks", "labels": "/m/019jd,/m/02rlv9,/m/03m9d0z,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/taYKM1OSTwE_120.wav", "captions": "Sheep baaing as gusts of wind blows followed by a person chuckling", "labels": "/m/03fwl,/m/07bgp,/m/0ch8v,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/5iTRKJqUIw8_27.wav", "captions": "Muffled crowd noise while a bell dings", "labels": "/m/07qjznl,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rvDcg9DoNKA_380.wav", "captions": "Distant thunder with rain falling followed by a man speaking loudly", "labels": "/m/0ngt1"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/nU-AI3Cmc3M_30.wav", "captions": "A pigeon cooing followed by bird wings flapping as wind blows into a microphone", "labels": "/m/015p6,/m/0h0rv,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_GI7meqlYZk_30.wav", "captions": "A cat screaming then meowing as a young boy is talking during a series of electronic buzzing", "labels": "/m/01yrx,/m/068hy,/m/07qrkrw,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/h3UhoHIMfpw_30.wav", "captions": "Some rustling with a very high toned beep", "labels": "/m/02_41,/m/03m9d0z,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/LB6CZ0x-kns_0.wav", "captions": "A loud metal clank followed by pressurized air releasing as a truck engine runs idle before accelerating", "labels": "/m/07r04,/m/07yv9,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/cFHFVGOtp6g_30.wav", "captions": "Gravely sound with women voice in background", "labels": "/m/09ld4,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CYUlLTKoa1Y_80.wav", "captions": "A woman speaks as a machine whirs and creaks in the background", "labels": "/m/09x0r,/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/P4qd8uodw_M_0.wav", "captions": "Muffled man speech with tapping and clicks", "labels": "/m/02fs_r,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Mj_BO-iK1G4_310.wav", "captions": "Vibrations from a sewing machine with clicking", "labels": "/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ptIksg9KEac_30.wav", "captions": "A person clapping followed by a dog barking then wood clanking as birds chirp and gusts of wind blow in the background", "labels": "/m/068hy,/m/07rc7d9,/m/0bt9lr,/m/0jbk,/t/dd00136"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CchRf2jq6fc_30.wav", "captions": "A young woman is talking.", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/FL8KTgMGrN4_30.wav", "captions": "A vacuum running", "labels": "/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/o7-X8DAToGc_170.wav", "captions": "A vehicle driving by with tires briefly skidding and accelerating then slowing down", "labels": "/m/012f08,/m/07yv9,/m/0ltv,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7XXSOzDQ2z0_70.wav", "captions": "A mid-size motor vehicle engine is idling and clacking somewhat, followed by mid-size motor vehicles accelerating quickly with a brief tire squeal", "labels": "/m/07yv9,/m/0h9mv,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/TtRtURWVYBE_40.wav", "captions": "Bells chiming as a clock is ticking", "labels": "/m/0395lw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/PkmpxrsidZM_170.wav", "captions": "Applause and female speech and laughter, whistling, and then throat clearing", "labels": "/m/028ght,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/lHh0SwUhP8U_120.wav", "captions": "Birds chirp followed by some clicking then gunshots", "labels": "/m/09ddx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/U3CAjsm1sec_30.wav", "captions": "Several cats meowing followed by a man singing", "labels": "/m/01yrx,/m/068hy,/m/07qrkrw,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/dZDgJzGtLLU_290.wav", "captions": "Water splashing with some rustling and wind blowing", "labels": "/m/07pqc89"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8b9z7N25DmU_60.wav", "captions": "A bus engine driving in the distance then nearby followed by compressed air releasing while a woman and a child talk in the distance", "labels": "/m/01bjv,/m/07yv9,/m/09x0r,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/UQtBt6CQpwg_30.wav", "captions": "A man speaks, and a sewing machine sews material", "labels": "/m/09x0r,/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/hV4bDCBDCy0_90.wav", "captions": "Humming of a large truck engine with blowing wind", "labels": "/m/07r04,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6TO9PEGpZcQ_30.wav", "captions": "An emergency siren wailing followed by a large truck engine running idle", "labels": "/m/012n7d,/m/012ndj,/m/03j1ly,/m/03kmc9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bAqgL5dCQOE_30.wav", "captions": "Rain falling with distant hums of traffic", "labels": "/m/06mb1,/m/07r10fb,/t/dd00038"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bJMMp6PLKqM_10.wav", "captions": "A baby cries and a young child speaks", "labels": "/m/0463cq4,/m/09x0r,/m/0ytgt,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/NeZerAPXR-A_0.wav", "captions": "Woman laughing and talking with another man and woman while something is clanging", "labels": "/m/01j3sz,/m/09x0r,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6cyKp3EDm-0_30.wav", "captions": "Pigeons are cooing flapping and a man talks", "labels": "/m/015p6,/m/09x0r,/m/0h0rv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1N_DtRpdAp8_6.wav", "captions": "A mid-size engine is idling and vibrating and is revved up one time", "labels": "/m/01jwx6"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/v7BaYF0kagM_310.wav", "captions": "An engine running", "labels": "/m/07yv9,/m/0k5j,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rN2rpLV3brs_120.wav", "captions": "Dishes clanking as a man is talking", "labels": "/m/04brg2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/t1hj7se76wQ_30.wav", "captions": "Typing on a typewriter is ongoing with clicking and clacking, a bell rings, and a clack occurs with the carriage return", "labels": "/m/0316dw,/m/07qn4z3,/m/0c2wf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8DLcBdC5UrE_13.wav", "captions": "Wind followed by splashing of water", "labels": "/m/07swgks"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_C2HinL8VlM_30.wav", "captions": "Metal clanking and hammering in the distance followed by police sirens sounding", "labels": "/m/03j1ly,/m/03kmc9,/m/04qvtq"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AWGnTI0e2Fs_300.wav", "captions": "Helicopter propellers spinning", "labels": "/m/09ct_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rPkCYq4Zjwk_0.wav", "captions": "A whoosh effect followed by a woman talking then a man talking proceeded by another man talking over a radio as guitar music plays in the background", "labels": "/m/02fs_r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CfxWJ1Qoufg_10.wav", "captions": "A man talking as paper crinkles followed by plastic creaking then a toilet flushing", "labels": "/m/01jt3m,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BA-lFjpzad4_30.wav", "captions": "Motor vehicle traffic is ongoing, and a motorcycle engine accelerates and then decelerates in the foreground", "labels": "/m/012f08,/m/04_sv,/m/07yv9,/m/09x0r,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/C8kR19NvynA_30.wav", "captions": "A man speaking continuously", "labels": "/m/02qldy,/m/05zppz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/tIM-H2rdq8U_60.wav", "captions": "A gun firing several times followed by a revolver chamber spinning and metal clanking as a man talks and a person grunts", "labels": "/m/032s66"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Bvw2gv1fcZw_70.wav", "captions": "A person speaks followed by a burping sound and laughter", "labels": "/m/03q5_w,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/MdlEswBfZMQ_70.wav", "captions": "One toddler crying with several others laughing", "labels": "/m/07rgt08,/m/09x0r,/m/0ytgt,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/MBP4RcnwGZw_40.wav", "captions": "A woman talking then laughing as a crowd of people talk in the background", "labels": "/m/02zsn,/m/07qfr4h,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/pPLisQ_QXxw_24.wav", "captions": "An engine running and a horn", "labels": "/m/07yv9,/m/0912c9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4_DjmCg8Ra8_30.wav", "captions": "Artillery guns fire followed by a man yelling as someone whistles while gunshots fire and a group of men shout in the background", "labels": "/m/032s66,/m/0_1c"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/b1PXsfgQw5w_0.wav", "captions": "A group of people laughing followed by a man talking then more laughter", "labels": "/m/01j3sz,/m/07r660_,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/N_s9F4CI_98_380.wav", "captions": "Pigeons cooing followed by bird wings flapping", "labels": "/m/015p6,/m/020bb7,/m/07r_25d,/m/0h0rv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/WqXFAY4k79s_230.wav", "captions": "Several loud pops followed by one woman laughing and another speaking", "labels": "/m/06mb1,/t/dd00038"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/13CBvjHZhOA_29.wav", "captions": "Knocking sounds as race cars pass by", "labels": "/m/012f08,/m/07yv9,/m/0k4j,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/XPebkNzsnRI_10.wav", "captions": "Whistling followed by a child giggling and then Moe whistling", "labels": "/m/01w250,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/e9MWXS34o48_40.wav", "captions": "A person breathes heavily and sneezes", "labels": "/m/01hsr_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Ni3dIj90Oa4_10.wav", "captions": "Explosion followed by man speaking a short bit of music at the end", "labels": "/m/032s66"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/PYP-r0nvbFk_30.wav", "captions": "Wind blows and a man speaks followed by a goat bleating", "labels": "/m/07bgp,/m/07q0h5t,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CxaPpRJRkn0_0.wav", "captions": "Male snoring loudly", "labels": "/m/01d3sd"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/gwQMkQmBITE_80.wav", "captions": "A man talking followed by several lights scrapping on a wooden surface as wood clanks in the background", "labels": "/m/083vt,/m/09x0r,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/wrQDkX0NbTA_29.wav", "captions": "A distant engine hums loudly with splashing water and blowing wind", "labels": "/m/019jd,/m/02rlv9,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/C_ga5m6nOhI_30.wav", "captions": "A train running on train tracks while a steam engine horn whistles", "labels": "/m/06hck5,/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Gkb4f6yodPE_70.wav", "captions": "Sustained industrial sawing noise", "labels": "/m/01b82r,/m/07pdjhy,/m/083vt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/txeXrpoMST4_500.wav", "captions": "Water turning on and running continuously", "labels": "/m/0130jx,/m/02jz0l,/m/03dnzn,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/QOmV7O9mFwg_30.wav", "captions": "Laughing followed by a child talking and more laughing with many children talking in the background", "labels": "/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ZsTZ7jqbd9M_170.wav", "captions": "A man talking during footsteps on leaves as birds chirp in the background.", "labels": "/m/01h3n,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/PVvi2SDOjVc_0.wav", "captions": "A vehicle is running followed by the horn honking", "labels": "/m/07yv9,/m/0912c9,/m/0k4j,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/kVYNXZd0MMY_30.wav", "captions": "An idle vehicle engine running followed by bird cawing in the background and a plastic camera click", "labels": "/m/01jwx6,/m/02mk9,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/K2kIOBeCfuo_140.wav", "captions": "An adult male speaks, and a crowd laughs and then cheers and applauds", "labels": "/m/028ght,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/os_2U4xqTqw_100.wav", "captions": "Heavy footsteps walking on a hard surface followed by a man grunting then two explosions", "labels": "/m/014zdl,/m/07qsvvw,/m/07s2xch"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/eNG6fEiAE8c_30.wav", "captions": "Men laughing with goat bleating in background", "labels": "/m/07bgp,/m/07q0h5t,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/MjSegUnQXr4_2.wav", "captions": "Pigeons cooing and bird wings flapping during light scrapping on a metal surface while a construction machine operates in the background", "labels": "/m/015p6,/m/0h0rv,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/C5kmOK_l4jc_0.wav", "captions": "A young girl talking as an infant is laughing", "labels": "/m/09x0r,/m/0ytgt,/t/dd00001"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/q4YFJA5pFXc_110.wav", "captions": "A helicopter engine whines as it starts", "labels": "/m/09ct_,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/86dNVnTwH6U_40.wav", "captions": "Hissing followed by sewing machine running", "labels": "/m/09x0r,/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-aYumc8KoXg_60.wav", "captions": "A vehicle is driving, and a horn is honking", "labels": "/m/07yv9,/m/0912c9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/hxbmDeNSO6Q_230.wav", "captions": "A sewing machine sews followed by a man talking", "labels": "/m/09x0r,/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Jp64Whpr3BA_50.wav", "captions": "Rustling followed by a sewing machine running.", "labels": "/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3fomsZXG3aM_3.wav", "captions": "A vehicle engine running idle then revving after two metal clicks", "labels": "/m/07q2z82,/m/07yv9,/t/dd00066"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rtgVoZCcBw8_0.wav", "captions": "Goats are bleating with other natural outdoor noises", "labels": "/m/03fwl,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/VOXl8iR-HnI_240.wav", "captions": "Quiet speech and then and airplane flying away", "labels": "/m/014yck,/m/07yv9,/m/09x0r,/m/0cmf2,/m/0k5j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4pf-PIymDhU_20.wav", "captions": "A jackhammer drilling and vibrating continuously", "labels": "/m/01d380,/m/07k1x,/m/0_ksk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/sJrFyjfrL-g_150.wav", "captions": "A sewing machine operating during several metal clacks", "labels": "/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CvNAwby6Xos_220.wav", "captions": "A sewing machine operating several times followed by gears cranking as a man is talking", "labels": "/m/09x0r,/m/0llzx,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1j5NMuq1X30_30.wav", "captions": "High pressure liquid spraying as a radio plays in the background", "labels": "/m/07qlf79"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/dJYO3RbBabE_0.wav", "captions": "An electronic beep followed by a man talking", "labels": "/m/02fs_r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/IPfaRF76gVU_13.wav", "captions": "A truck engine driving by while emergency sirens wail as a crowd of people talk followed by a man speaking over an intercom", "labels": "/m/012ndj,/m/03j1ly,/m/07r04,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/riM7b5bJ9KQ_60.wav", "captions": "A man laughs followed by laughter and speech from other people", "labels": "/m/01j3sz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/aMhu5eMQAsI_140.wav", "captions": "Humming from a large engine", "labels": "/m/07yv9,/m/0k5j,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/HqnSyliKTKA_30.wav", "captions": "'An engine with people speaking and a horse neighing", "labels": "/m/03k3r,/m/07q5rw0,/m/07rv9rh,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/azh_-OkQ-uI_26.wav", "captions": "A woman talks briefly as several goats bleat including one that has high pitched bleats. A crunch is followed by a man speaking", "labels": "/m/07bgp,/m/07q0h5t,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0ury8KHQdL4_480.wav", "captions": "An adult male is speaking and typing on a keyboard", "labels": "/m/01m2v,/m/0316dw,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BLMWD6fxhpo_22.wav", "captions": "A grunt from a person followed by footsteps and oinks from a pig with a single squeal", "labels": "/t/dd00018"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/UV1kdjwpy6U_17.wav", "captions": "An engine vibrates followed by a man speaking", "labels": "/m/01jwx6,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/IhvXtS9-IxM_30.wav", "captions": "A high pitched engine idling", "labels": "/m/07yv9,/m/09ct_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rp3CQsWxVgE_0.wav", "captions": "White noise followed by a musical horn honking", "labels": "/m/07yv9,/m/0912c9,/m/0k4j,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1Uh74_rZ72k_30.wav", "captions": "Wind blowing with passing distant traffic and some rumbling", "labels": "/m/07swgks"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/KSHpYhuTotY_210.wav", "captions": "A man speaking as footsteps walk on grass while insects are buzzing", "labels": "/m/01h3n,/m/03vt0,/m/0h2mp"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/LCwSUVuTyvg_330.wav", "captions": "A series of doors sliding open as gusts of wind blows and glass clanks", "labels": "/m/02dgv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/vruDH_YLaPI_90.wav", "captions": "Gunshots are ongoing, and intermittent metal clinks are occurring", "labels": "/m/032s66"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/lTfNLKEy1RU_120.wav", "captions": "Repetitive faint snoring", "labels": "/m/01d3sd,/m/0bt9lr,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/LVvS3s9dFKw_30.wav", "captions": "A man speaking while water runs in the background", "labels": "/m/0130jx,/m/02jz0l,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0_ogYGDGDco_60.wav", "captions": "Water is splashing, people are talking", "labels": "/m/019jd,/m/034srq,/m/03m9d0z,/m/056ks2,/m/05kq4,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2EsxcKe1A4w_28.wav", "captions": "A large dog barks", "labels": "/m/068hy,/m/07rc7d9,/m/09x0r,/m/0bt9lr,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/DzKjogSVOLM_21.wav", "captions": "Ducks quacking and birds chirping followed by a rooster crowing as a crowd of people talk", "labels": "/m/07qdb04,/m/09ddx,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/GIOApFAWDOc_160.wav", "captions": "Birds chirping and tweeting followed by light wood tapping", "labels": "/m/015p6,/m/020bb7,/m/07pggtn"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/5G6b_QWL3nY_60.wav", "captions": "A woman is speaking while food is frying and sizzling", "labels": "/m/07p9k1k,/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-oy0BkpMGAk_30.wav", "captions": "Revving of an engine and a skidding sound", "labels": "/m/012f08,/m/07rknqz,/m/07yv9,/m/0k4j,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/oklu5ZJD_2U_10.wav", "captions": "Plastic tapping then rattling as a bird chirps", "labels": "/m/015p6,/m/068hy,/m/07pggtn"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/inQOrxc_oZo_30.wav", "captions": "Hog snorting with male screaming", "labels": "/t/dd00018"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ECw5Yf7QoMo_30.wav", "captions": "A man speaks while another speaks on top as well followed by clapping", "labels": "/m/02qldy,/m/05zppz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4abZbau8tZo_14.wav", "captions": "Waves roll in and a man speaks", "labels": "/m/07swgks,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/puZL08fzpXk_4.wav", "captions": "Gunshots followed by people speaking and explosions", "labels": "/m/032s66,/m/04zjc"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/x5AH2gW_8S4_30.wav", "captions": "Pigeons cooing with some rattling and screeching", "labels": "/m/0h0rv,/m/0jbk,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/pCQEWAFGEjc_30.wav", "captions": "A steam engine running on railroad tracks as steam releases and hisses while group of people talk in the background", "labels": "/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/GMP8m09j5vk_370.wav", "captions": "Birds call while another bird sings", "labels": "/m/015p6,/m/020bb7,/m/07pggtn"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4fz0-Kx2oNs_250.wav", "captions": "Food and oil sizzling followed by a person snapping", "labels": "/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/VZLZ08k3YeA_60.wav", "captions": "Someone snores and a man speaks", "labels": "/m/01d3sd,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/JTHMXLC9YRs_30.wav", "captions": "Breathing and ducks quaking", "labels": "/m/09ddx,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/nD1K1Zo0qrM_10.wav", "captions": "A series of machine gunfire and two gunshots firing as a jet aircraft flies by followed by soft music playing", "labels": "/m/032s66,/m/04zjc"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/pWQeV08kYR0_10.wav", "captions": "An ambulance sounds the siren", "labels": "/m/012n7d,/m/03j1ly,/m/03kmc9,/m/07yv9,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/hDMHIDJdfDA_40.wav", "captions": "Continuous snoring", "labels": "/m/01d3sd,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Qv1HXaT-28U_4.wav", "captions": "Liquid spraying and splattering on a hard surface as kids laugh in the background", "labels": "/m/07qsvvw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/C4JwGJQ2dUA_30.wav", "captions": "A man yelling very loudly while speaking", "labels": "/m/02qldy,/m/05zppz,/m/09x0r,/m/0brhx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/fWvWhLJ5Fow_30.wav", "captions": "Running then spraying", "labels": "/m/07qlf79"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BzHTqyX69pI_60.wav", "captions": "Wood sawing and scrapping followed by a woman speaking while pigeons are cooing and bird wings are flapping", "labels": "/m/07pdjhy,/m/083vt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ljrL7Cb-jr8_30.wav", "captions": "Humming and vibrating of engines", "labels": "/m/07qlf79"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rBUCIK8JRLg_30.wav", "captions": "White noise followed by some rustling and splashing", "labels": "/m/034srq,/m/03m9d0z,/m/05kq4,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/TSnq6n8tElo_0.wav", "captions": "A young child talking followed by tapping on glass then metal rattling on a glass surface", "labels": "/m/0242l,/m/04brg2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/PO8Nu3F8mkA_30.wav", "captions": "Several pops and bursts of fireworks exploding", "labels": "/m/014zdl,/m/07qsvvw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/emGPabOePzA_30.wav", "captions": "Laughing and speech in a slowed speed", "labels": "/m/03q5_w,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/PTyFYxXdut4_370.wav", "captions": "A woman speaks as water splashes", "labels": "/m/07pqc89,/m/0838f,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_oKXrY5Ff0g_60.wav", "captions": "Speech and laughter from many people", "labels": "/m/01j3sz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/KOBkbROPv4c_0.wav", "captions": "Humming of an engine with squealing tires", "labels": "/m/07rknqz,/m/07yv9,/m/0h9mv,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/32565FEuksc_30.wav", "captions": "A woman speaks and a crowd applauds", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/I_vN_BFUr0Y_10.wav", "captions": "A train horn blowing several times as a train runs on railroad tracks and a railroad crossing signal rings in the distance", "labels": "/m/01g50p,/m/0284vy3,/m/04zmvq,/m/06d_3,/m/07jdr,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/wBs02amFGXs_30.wav", "captions": "A rooster crowing and birds cooing", "labels": "/m/015p6,/m/0h0rv,/t/dd00125,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/wVi5w_NU6CM_0.wav", "captions": "A fire truck siren blasts", "labels": "/m/012f08,/m/012ndj,/m/03j1ly,/m/03kmc9,/m/07r04,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rE6BJ0Bo4w4_200.wav", "captions": "A woman speaks, and faucet water runs", "labels": "/m/02jz0l,/m/09x0r,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bA5zPFSFZAA_7.wav", "captions": "Static and beeping", "labels": "/m/07rqsjt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8F-ndyrEWJ8_470.wav", "captions": "Car is speeding down road, emergency siren is sounding, and a man speaks", "labels": "/m/012n7d,/m/03j1ly,/m/03kmc9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Ba92IrXFvJo_30.wav", "captions": "Cracking and humming from an engine", "labels": "/m/019jd,/m/02rlv9,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/FhimNYClv40_40.wav", "captions": "Sirens and a humming engine approach and pass", "labels": "/m/012ndj,/m/03j1ly,/m/03kmc9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/IFRmbxWK8u0_30.wav", "captions": "A clock ticking", "labels": "/m/07qjznl"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/i2yhbckq3p0_110.wav", "captions": "A motorcycle engine running as several vehicle horns honk while a car alarm rings in the distance", "labels": "/m/012f08,/m/04_sv,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/kHIe4CfaccQ_40.wav", "captions": "Continuous basing and rustling", "labels": "/m/03fwl,/m/068hy,/m/0ch8v,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/lfAFQ0-wDJU_30.wav", "captions": "Wind and surf with water splashing", "labels": "/m/034srq,/m/03m9d0z"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2JV3emH50XU_0.wav", "captions": "A vehicle accelerating then driving by as gusts of wind blow and leaves rustle in the distance", "labels": "/m/07yv9,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/mlnUJH4BQnk_110.wav", "captions": "Female speech and scratching", "labels": "/m/07pdjhy"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/NwoBDrTlbTI_30.wav", "captions": "A gerbil squeaking during audio static", "labels": "/t/dd00018"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/q3SEOW2m4WY_20.wav", "captions": "A train horn honks as a train speeds past", "labels": "/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr,/m/07rwm0c"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2UNuMbxz9ds_22.wav", "captions": "An engine revving and popping", "labels": "/m/012f08,/m/07yv9,/m/0k4j,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/dYZSKX7vuRI_300.wav", "captions": "A person snoring loudly followed by a man speaking", "labels": "/m/01d3sd,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ek9Fsmm3xqk_260.wav", "captions": "Splashing with wind blowing hard", "labels": "/m/019jd,/m/03m9d0z,/m/056ks2,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Q87LBiwJjTE_250.wav", "captions": "Music in the background as a woman speaks and food fries", "labels": "/m/07p9k1k,/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BGEMgl1xjac_120.wav", "captions": "Various insects and bugs are chirping with a rodent breathing sound in the background", "labels": "/m/03vt0,/m/06hps,/m/09xqv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4lv9aLXtud0_0.wav", "captions": "A man shouting before and after someone belching", "labels": "/m/03q5_w,/m/09x0r,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/g6CY7qvu81k_0.wav", "captions": "Music followed by male speech and distant sizzling", "labels": "/m/07p9k1k"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AR8-MVl_Mf8_2.wav", "captions": "A man screaming followed by slamming against a metal object proceeded by a man talking cardboard tumbles on a hard surface as a truck engine runs idle in the background", "labels": "/m/02dgv,/m/07rjzl8,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2a6GNu6uCDE_30.wav", "captions": "A woman delivers a speech", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bIV3bJZpkgA_30.wav", "captions": "A helicopter is in flight", "labels": "/m/07yv9,/m/09ct_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ynHdcJ9Oqaw_20.wav", "captions": "Loud booming bursts and whooshes", "labels": "/m/07rqsjt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ajheseWZmmU_70.wav", "captions": "A cat meowing as a person makes kissing noises followed by a guy chuckling", "labels": "/m/01yrx,/m/07qrkrw,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/zF3xXn6NTyU_260.wav", "captions": "Water falling and a woman talks, coughs, then talks again while a man speaks in the background", "labels": "/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/UXGzbBGbqAA_30.wav", "captions": "Footsteps shuffling and fabric slapping a hard surface", "labels": "/m/07ryjzk,/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/vfNKduToki4_180.wav", "captions": "Truck engines are running, a shrill back-up alarm rings, air brakes engage, and adult males are talking in the background", "labels": "/m/07r04,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/KVbmN9ZRg5Q_220.wav", "captions": "Loud hissing followed by a loud continuous horn and brief clanking", "labels": "/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr,/m/07rwm0c"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/GPj8h-WcjWs_21.wav", "captions": "Humming of an engine with a woman speaking over a loudspeaker", "labels": "/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3ue0gJM0THk_30.wav", "captions": "Aircraft engine revs and creates propeller which", "labels": "/m/02l6bg,/m/02mk9,/m/07pb8fc,/m/07q2z82,/t/dd00066"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/5xC4hkAWiao_0.wav", "captions": "A large motor vehicle engine is idling, then it labors and creaks", "labels": "/m/012f08,/m/02mk9,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/eRU-rABp8nk_30.wav", "captions": "Two men talking as a motorcycle engine runs idle and a group of people laugh", "labels": "/m/04_sv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Td2EEDdFlRY_10.wav", "captions": "A man talking as a woman talks in the distance while light music is playing followed by a guitar strumming and footsteps walking on gravel", "labels": "/m/07p9k1k"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rbO727iF03I_30.wav", "captions": "A loud belch followed by male human voices", "labels": "/m/03q5_w,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ZY4aGEniU_E_90.wav", "captions": "Food and oil sizzling followed by steam hissing as a man talks and light rock music plays in the background", "labels": "/m/07p9k1k"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/KVAIaRPry24_50.wav", "captions": "Flying insects are buzzing", "labels": "/m/01h3n,/m/03vt0,/m/0h2mp"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/RrmBGjJqlEo_400.wav", "captions": "Clicking on a keyboard with a man speaking", "labels": "/m/0316dw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/j1AiqT5oHZc_140.wav", "captions": "Beep then male speaking multiple times", "labels": "/m/02fs_r,/m/09x0r,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Z_smJ66Tb3c_30.wav", "captions": "A man talking as pigeons are cooing and birds are chirping with bird wings flapping", "labels": "/m/015p6,/m/020bb7,/m/07r_25d,/m/0h0rv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Dc2WEiRk0rA_30.wav", "captions": "Hissing spray is occurring, and liquid is pattering on a surface", "labels": "/m/07qlf79"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/NlKlRKz8OKI_90.wav", "captions": "A woman talking then laughing followed by plastic tapping and birds chirping in the background", "labels": "/m/015p6,/m/020bb7,/m/07pggtn"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/lVr-PxhZo8s_40.wav", "captions": "Car engine idling", "labels": "/m/07pb8fc,/m/07yv9,/t/dd00126"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/zwoqJY03yHE_60.wav", "captions": "Women speak and a goat bleats", "labels": "/m/03fwl,/m/068hy,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1_z6NcidGzM_30.wav", "captions": "Various speech and a whistle blown and water splashing", "labels": "/m/07swgks,/m/09x0r,/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/atmDP_fmK_8_0.wav", "captions": "A low loud hum gets lower followed by an explosion", "labels": "/m/014zdl,/m/07qsvvw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/e6jSpvTvfJ0_20.wav", "captions": "Thunder claps and rain falls hard, splashing on surfaces", "labels": "/m/06mb1,/m/0cj0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/gf6H_MWCqjw_40.wav", "captions": "A duck quacking followed by camera muffling", "labels": "/m/015p6,/m/09ddx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/wnqUgK_-fo4_0.wav", "captions": "Several loud pops with people cheering", "labels": "/m/07bgp,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bQNX7vDalQw_0.wav", "captions": "A man speaks followed by heavy sizzling", "labels": "/m/07p9k1k"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/SePTNAN7s-w_20.wav", "captions": "A female speech and then a toilet flushing followed by a female speech.", "labels": "/m/01jt3m,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Y3lNEe-ZGF0_30.wav", "captions": "A clock ticking followed by a wooden latch opening", "labels": "/m/07qjznl,/m/07qjznt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-AheI8Epim4_30.wav", "captions": "Wind noise followed by a tapping noise while people are talking in the background", "labels": "/m/07qsvvw,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/tmLAXm1WlnE_50.wav", "captions": "A woman speaks with nearby buzzing of insects", "labels": "/m/01h3n,/m/03vt0,/m/0h2mp"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/XamQAY_WXRY_140.wav", "captions": "A man talking as water splashes and gurgles and a motor engine hums in the background", "labels": "/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Z-SIyOChVh8_0.wav", "captions": "Rain and thunder", "labels": "/m/06mb1,/m/0jb2l,/m/0ngt1"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/wSHzVxdMiTo_30.wav", "captions": "A pig squeezing and male speech", "labels": "/m/09x0r,/t/dd00018"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/WCYfCfW9NA0_230.wav", "captions": "High pitched humming with whooshes of spinning helicopter blades", "labels": "/m/07yv9,/m/09ct_,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-EaZ7EJJUl0_50.wav", "captions": "A person speaks with distant humming and nearby clinking", "labels": "/m/023pjk,/m/04brg2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Z3wDry8nnJs_60.wav", "captions": "Water splashes followed by a girl speaking then scraping followed by spitting", "labels": "/m/09x0r,/m/0ytgt,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/wOFBldBFRNk_20.wav", "captions": "Church bells ringing as rain pours and wind blows into a microphone", "labels": "/m/0395lw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/nLZeG9LaLgw_0.wav", "captions": "Loud humming of a car speeding into the distance with wind blowing and tires squealing", "labels": "/m/07yv9,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_z-bidQYVao_22.wav", "captions": "Male rapping and screaming", "labels": "/m/07qjznl,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1QNLMF-Kl_s_30.wav", "captions": "A woman is giving a speech", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7XUt6sQS7nM_30.wav", "captions": "Sheep baaing with young female voice and wind gusts", "labels": "/m/07bgp,/m/07q0h5t,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/cz0FSQDVBMw_90.wav", "captions": "Hissing and chugging with brief muffled speech", "labels": "/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/SZ6CcXINiiE_0.wav", "captions": "A man speaks followed by a loud bursts and then laughter", "labels": "/m/014zdl,/m/07qsvvw,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/fBYDJWChe5c_20.wav", "captions": "A person snoring", "labels": "/m/01d3sd"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/JC2ZrXzCX4Y_110.wav", "captions": "A person snores while people communicate", "labels": "/m/01d3sd,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Tgxst7Ft9js_20.wav", "captions": "Sanding and filing then a man speaks", "labels": "/m/02p01q,/m/07pdjhy"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/5YzNSjmZ3Wg_20.wav", "captions": "A nearby insect buzzes with nearby vibrations", "labels": "/m/01h3n,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/D2Xc_jZllDY_30.wav", "captions": "Dog barking with win and man speaking", "labels": "/m/068hy,/m/07r_k2n,/m/07rc7d9,/m/09x0r,/m/0bt9lr,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/OxUVcZmeiyI_30.wav", "captions": "A clock ticktocks with music", "labels": "/m/07qjznl,/m/07qjznt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/kXjzsroVTtw_20.wav", "captions": "Birds chirp and sing in the background, while an adult male speaks and crunching footfalls occur", "labels": "/m/020bb7,/m/07pggtn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/14izd_i3ryE_30.wav", "captions": "A man speaks as an engine runs and wind rushes by, another man speaks over a loudspeaker", "labels": "/m/07rv9rh,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4YodC6RnplI_70.wav", "captions": "A female laughs, snoring occurs, and an adult male speaks in the background", "labels": "/m/01d3sd"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/IsUG5SKWNZA_30.wav", "captions": "A woman whispering then talking as an infant cries followed by a man yelling", "labels": "/m/09x0r,/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/SL3wB5sDcdw_350.wav", "captions": "Leaves rustling as a leaf blower operates and wind blows into a microphone", "labels": "/m/09t49,/m/0d31p"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/fmEft49sPfE_70.wav", "captions": "A man is speaking with the wind blowing in the background", "labels": "/m/05zppz,/m/09t49,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/wFiCblfZ-vg_30.wav", "captions": "A man speaking followed by another man speaking in the background during audio static", "labels": "/m/07pqc89,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/sbW7XwwUtSU_23.wav", "captions": "A clock ticking repeatedly", "labels": "/m/07qjznl,/m/07qjznt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/mYQrjcYNrW0_20.wav", "captions": "A bus horn honking as wind is blowing into a microphone before a bus drives by", "labels": "/m/01bjv,/m/07qv_d5,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/kagkXkAVPNo_40.wav", "captions": "An engine revving followed by a loud honk, then several other honks and a woman talking", "labels": "/m/07yv9,/m/0912c9,/m/09x0r,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8VOibo9Q_Dc_30.wav", "captions": "Water splashing and birds chirping", "labels": "/m/09ddx,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/W7OJevEgq7w_0.wav", "captions": "A dog whimpering and barking while breathing rapidly", "labels": "/m/05tny_,/m/068hy,/m/07rc7d9,/m/0bt9lr,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/pO8kbg9IJnc_120.wav", "captions": "Some light clicks followed by a man speaking and water splashing", "labels": "/m/0130jx,/m/02jz0l,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3XcIVh40pTI_10.wav", "captions": "A person is snoring steadily", "labels": "/m/01d3sd"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/nLtNjMimLE0_480.wav", "captions": "Running and splashing water", "labels": "/m/07pqc89,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ESjMIqrvRj4_30.wav", "captions": "Rain pitter-patters as thunder cracks and the wind blows", "labels": "/m/09t49,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/5t6tSW0yT40_410.wav", "captions": "A motor hums softly followed by spraying", "labels": "/m/07qlf79"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/mUGmCSNETcg_310.wav", "captions": "Women talk while food fries", "labels": "/m/07ptfmf,/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/096oTVzc5Gs_30.wav", "captions": "An adult female speaks and an animal growls playfully", "labels": "/m/09x0r,/m/0bt9lr,/m/0jbk,/t/dd00136"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AUmY0YRAFQE_0.wav", "captions": "Sirens ring as a vehicle speeds past", "labels": "/m/04qvtq,/m/07yv9,/m/0k4j,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8Zo30kV5aiI_10.wav", "captions": "Emergency vehicle siren passing by then fading", "labels": "/m/012n7d,/m/03j1ly,/m/03kmc9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/PvWI4p74UOs_30.wav", "captions": "Laughing and birds chirping with wind and an engine running", "labels": "/m/019jd,/m/02rlv9,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/H7-orYrKBeo_70.wav", "captions": "A group of people talking as an infant cries while a muffled bus engine runs", "labels": "/m/01bjv,/m/0463cq4,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/PZBUdlKwX04_21.wav", "captions": "A plastic clack followed by a man talking as a stream of water rushes and a crowd of people talk in the background", "labels": "/m/09x0r,/m/0j2kx,/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/TaQKhIRwii4_100.wav", "captions": "A crowd of people applauding followed by a woman speaking", "labels": "/m/028ght"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Agh2EKINlSw_30.wav", "captions": "Hard rain falls on a metal surface, then three adult males speak while soft rhythmic whooshing occurs", "labels": "/m/06mb1,/t/dd00038"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/k4XyfaWVLEY_30.wav", "captions": "A vehicle engine idles and birds chirp in the background", "labels": "/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ROootH-mtEI_130.wav", "captions": "A river stream flowing rapidly", "labels": "/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Axd__X2rixk_30.wav", "captions": "Clip clops of a horse running by", "labels": "/m/03k3r,/m/07rv9rh,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/naPgJvWTIY4_80.wav", "captions": "A motorbike running idle then revving", "labels": "/m/04_sv,/m/07yv9,/t/dd00066,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BMayJId0X1s_120.wav", "captions": "A man talking as a baby is crying", "labels": "/m/0463cq4,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/5I8lmN8rwDM_140.wav", "captions": "A power tool sanding", "labels": "/m/01d380,/m/07k1x,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/hVUmQfBIYe8_100.wav", "captions": "A man speaks followed by a door opening", "labels": "/m/02dgv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/P12nvSpKXcs_24.wav", "captions": "Birds are calling and many bees are buzzing, then a child speaks briefly and rustling footfalls and rattling occur", "labels": "/m/01h3n,/m/03vt0,/m/0h2mp"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/xpZna_FwDhI_70.wav", "captions": "A click is followed by a woman speaking and then a sewing machine stitching", "labels": "/m/09x0r,/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9dLLsZVRSZI_110.wav", "captions": "Engine idling continuously followed by honking", "labels": "/m/07r04,/m/07yv9,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/KJKHDKKW3XU_5.wav", "captions": "Gurgling and splashing water", "labels": "/m/07swgks"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/EBCH7TPgiPc_0.wav", "captions": "Engine revs very high for a while, then begins to slow down", "labels": "/m/07q2z82,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/SCow4mpBsGY_0.wav", "captions": "A person is snoring", "labels": "/m/01d3sd"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-BUWGM7qeUM_10.wav", "captions": "Rain is heard falling", "labels": "/m/06mb1"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9b6RqajfAmw_30.wav", "captions": "Birds chirping together with rustling", "labels": "/m/015p6,/m/0h0rv,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/D4s5aHrsBgs_80.wav", "captions": "A person whistles to music", "labels": "/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/I4HpYGMMsz4_170.wav", "captions": "A man speaking with slapping on a wooden surface as compressed air hisses in the background", "labels": "/m/083vt,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/83j4GgHXTLE_210.wav", "captions": "A kid laughing and screaming with a man chuckling and woman whispering", "labels": "/m/01j3sz,/m/09x0r,/m/0ytgt,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/uY4fe5DT1gI_30.wav", "captions": "A person is typing on a computer keyboard", "labels": "/m/01m2v,/m/0316dw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-CcGuq0yoKo_30.wav", "captions": "A woman speaking on a microphone as a kid yells in the distance with periodic audio static clicks", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/WUyeFOyKIg0_250.wav", "captions": "Wind and people speaking and a car passing by", "labels": "/m/07yv9,/m/09x0r,/m/0k4j,/m/0ltv,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Qt0_xTadAT0_27.wav", "captions": "A group of frogs croaking as plastic flutters in the background", "labels": "/m/09ld4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9zstu_IfAm4_30.wav", "captions": "A truck horn honking as a large truck engine drives by while a crowd of people talk in the background", "labels": "/m/07r04,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/aZAXO2WZn84_30.wav", "captions": "A train running on railroad tracks followed by a lawn mower engine running then a steam engine whistle blowing as a crowd of people are talking in the background", "labels": "/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/466ucPGoNSQ_29.wav", "captions": "A speech and then a cat vocalizing repeatedly", "labels": "/m/01yrx,/m/068hy,/m/07qrkrw,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Ff8bCCJfVX4_10.wav", "captions": "An air gun firing rapidly followed by plastic rattling and a young boy talking while footsteps walk over grass", "labels": "/m/032s66"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/UAmDLPjNyMg_40.wav", "captions": "An aircraft flying as a person briefly sniffs aloud while wind blows into a microphone", "labels": "/m/07yv9,/m/0cmf2,/m/0k5j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0qbHT34qTZE_50.wav", "captions": "Male yelling and multiple gunshots", "labels": "/m/032s66,/m/06q74,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/wAZrOPvul4Y_130.wav", "captions": "A man talking as plastic is crinkling", "labels": "/m/09x0r,/t/dd00112"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/t4prXmPwthg_150.wav", "captions": "Vibrations from a running sewing machine with a woman speaking", "labels": "/m/09x0r,/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-R69Fa-mCaY_20.wav", "captions": "A chainsaw cutting as wood cracks and creaks", "labels": "/m/01j4z9,/m/083vt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3XuyGJqaXv8_16.wav", "captions": "A man speaks over a loudspeaker with a crowd talking in the distance and dogs barking", "labels": "/m/068hy,/m/07rc7d9,/m/09x0r,/m/0bt9lr,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/m_U506sf9p4_170.wav", "captions": "A woman talking followed by plastic thumping then metal clanking as food and oil sizzles", "labels": "/m/07p9k1k,/m/07ptfmf,/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/C9NC7wJ7C3w_30.wav", "captions": "A woman speaking continuously", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/T9_ep-3BZDY_300.wav", "captions": "A woman speaks followed by crinkling", "labels": "/m/09x0r,/t/dd00112,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7_smJ8VbfSU_0.wav", "captions": "Female speaking", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/FXdoNvmrYxo_280.wav", "captions": "A young girl talking followed by a man talking then a young boy softly talking as birds are chirping in the background", "labels": "/m/03vt0,/m/09x0r,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/hiJB_95IWiE_190.wav", "captions": "Male speech and then scraping", "labels": "/m/02p01q,/m/07pdjhy"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/a3GzZKxUTy8_50.wav", "captions": "Birds chirping and then a dog barking and a duck quaking", "labels": "/m/015p6,/m/09ddx,/m/0bt9lr,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6CDl4CqOgMg_30.wav", "captions": "An animal heavily breathing then snorting followed by footsteps on a hard surface and a camera muffling", "labels": "/m/068hy,/m/0bt9lr,/m/0jbk,/t/dd00136"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/mWqH2xwjkYA_50.wav", "captions": "A baby laughs and a woman speaks", "labels": "/m/01j3sz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8IdCiapDYCU_20.wav", "captions": "A few electronic-sounding animal noises followed by barking from a small dog", "labels": "/m/068hy,/m/07rc7d9,/m/0bt9lr,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Dn3buZWMzwY_20.wav", "captions": "A man and a kid laughing followed by another man speaking as a person snores", "labels": "/m/01d3sd,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/yLu4b01t53k_240.wav", "captions": "The loud idling of a machine", "labels": "/m/012f08,/m/07pb8fc,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2sZhC_mKeic_30.wav", "captions": "A cat meowing followed by metal clacking as a water sprinkler sprays in the background", "labels": "/m/01yrx,/m/068hy,/m/07qrkrw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/tTB0BK39JI8_40.wav", "captions": "Bells ring followed by clanking", "labels": "/m/0395lw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/sqWyxUObwkw_30.wav", "captions": "A boat engine starts up and idles", "labels": "/m/019jd,/m/02rlv9,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/YH4qi8Ul6v0_30.wav", "captions": "A man talking as an infant is crying followed by a man humming", "labels": "/m/09x0r,/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/HqndxoujCYI_30.wav", "captions": "A bell chiming as a clock ticks and a man talks through a television speaker in the background followed by a muffled bell chiming", "labels": "/m/07qjznl,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/L6rnV0oNIII_8.wav", "captions": "Laser followed by a gun shot", "labels": "/m/07qjznl"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/sI7_ycEYzAY_30.wav", "captions": "A clock ticks repeatedly", "labels": "/m/07qjznl,/m/07qjznt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AFgGoY8Ihhg_30.wav", "captions": "Wind blowing and a siren rings", "labels": "/m/03j1ly,/m/03kmc9,/m/04qvtq"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1L_OyngNZMA_30.wav", "captions": "Two men talking on a microphone as a crowd of people laugh and applaud", "labels": "/m/01j3sz,/m/07p6fty,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/U5ij0M7T-hk_140.wav", "captions": "Footsteps and scuffing occur, after which a door grinds, squeaks and clicks, an adult male speaks, and the door grinds, squeaks and clicks shut with a thump", "labels": "/m/02dgv,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Cbe2B6ohBpw_30.wav", "captions": "Continuous quacking and rustling", "labels": "/m/015p6,/m/068hy,/m/09ddx,/m/0ch8v,/m/0dbvp,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Flk-X0gwjF4_510.wav", "captions": "Birds are chirping and singing, rustling occurs and an adult male speaks briefly in the foreground, and an adult male speaks in the background", "labels": "/m/020bb7,/m/09x0r,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-mb4Fw4Z0xg_17.wav", "captions": "A car engine accelerating and then laughter", "labels": "/m/012f08,/m/07yv9,/m/09x0r,/m/0k4j,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/m_NCf-q4Gn0_150.wav", "captions": "Plastic thumping as an idle motorcycle engine runs", "labels": "/m/04_sv,/m/07qnq_y,/m/07yv9,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6aWnK1GyeJY_30.wav", "captions": "A baby is crying and a person sneezes then another person speaks", "labels": "/m/0463cq4,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2ceUOv8A3FE_20.wav", "captions": "A train horn blowing multiple times as a train runs on railroad tracks while a man and a young kid talk in the background alongside birds cooing in the distance", "labels": "/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Rk-ujWKzPuc_280.wav", "captions": "Hard rain is falling and splashing on a surface", "labels": "/m/06mb1,/t/dd00038"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/oiIi6H83Y38_0.wav", "captions": "A motorbike engine starting up then revving as a man talks in the background", "labels": "/m/04_sv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/5ORpSk5CIWc_140.wav", "captions": "Humming of a small engine passing by", "labels": "/m/09ct_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/f8WPf5F22xI_40.wav", "captions": "Sneezing followed by a ticking clock and a man speaking", "labels": "/m/01hsr_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1ed87LLY97k_30.wav", "captions": "A fan sound and a tapping noise", "labels": "/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/FeHndzYAUkg_170.wav", "captions": "A power tool drilling as rock music plays", "labels": "/m/01d380,/m/07k1x,/m/0_ksk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ne2DpKCIr4Y_190.wav", "captions": "Ocean waves crashing as wind blows into a microphone", "labels": "/m/034srq,/m/03m9d0z,/m/05kq4,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Aj_VMUSNjNM_30.wav", "captions": "Engine revving louder and louder than eases down", "labels": "/m/02mk9,/m/07q2z82,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-SkjbQVgJ0M_30.wav", "captions": "A car passes by shortly after a man starts talking", "labels": "/m/07yv9,/m/09x0r,/m/0k4j,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1a2XWJ8NA_Q_30.wav", "captions": "A motorboat engine running as two women are talking and wind is blowing into a microphone", "labels": "/m/019jd,/m/02rlv9,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/VMsbrcHPBfk_20.wav", "captions": "A man mimics a goat bleating", "labels": "/m/03fwl"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/oZaEHkfh5Eg_0.wav", "captions": "A vehicle horn honking during a series of electronic beeps", "labels": "/m/07yv9,/m/0912c9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/kF1KWybdRpM_60.wav", "captions": "Aircraft engine roars as it approaches and then recedes", "labels": "/m/014yck,/m/07yv9,/m/0cmf2,/m/0k5j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CMNlIW6Lkwc_12.wav", "captions": "A man is talking while plastic clacks followed by a popping explosion then a group of people talking and laughing", "labels": "/m/014zdl,/m/07qsvvw,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0yETgW44MZU_20.wav", "captions": "A train sounds horn while the engine taps", "labels": "/m/01g50p,/m/0284vy3,/m/04zmvq,/m/06d_3,/m/07jdr,/m/07yv9,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/67BsqRkh-dU_10.wav", "captions": "A toilet is flushed", "labels": "/m/01jt3m,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1HCuBnPLMqQ_380.wav", "captions": "A liquid makes a trickling noise", "labels": "/m/07pqc89"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/LBe33dw9ezg_30.wav", "captions": "Buzzing sound moving nearer and further", "labels": "/m/09ct_,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0Dt-pH0pW-Y_20.wav", "captions": "A motorcycle running and male speech and then laughing", "labels": "/m/04_sv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/GE1aZSnPr2Q_0.wav", "captions": "A man laughing", "labels": "/m/01j3sz"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/TOaQMYc79Mw_40.wav", "captions": "A vehicle struggling to start with some clicks and whines", "labels": "/m/07yv9,/t/dd00130"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/KJhGuhNHToA_30.wav", "captions": "Brief silence followed by wood shuffling on a stone surface", "labels": "/m/083vt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/KnsKf9KoNds_210.wav", "captions": "A man speaks nearby and another speaks over the phone", "labels": "/m/07cx4,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9E8BmPZ9mWc_12.wav", "captions": "A truck engine running as a group of men are talking", "labels": "/m/07r04,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/mJ6ZO3xEcgw_50.wav", "captions": "A woman sneezing repeatedly", "labels": "/m/01hsr_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Vkbp8VmL3pM_40.wav", "captions": "An infant crying as clothes rustle", "labels": "/m/0463cq4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CBwXKOpJY_o_30.wav", "captions": "A woman and young boy talking", "labels": "/m/01h8n0,/m/02zsn,/m/09x0r,/m/0ytgt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8ipe6b1LwHQ_30.wav", "captions": "A glass link occurs, a thump, and then clattering", "labels": "/m/023pjk,/m/04brg2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/yrxa6_P2I80_30.wav", "captions": "Several birds chirping and pigeons cooing", "labels": "/m/015p6,/m/0h0rv,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/A0E_UiD-fR4_0.wav", "captions": "Digital beeping followed by rapid vibrations and humming", "labels": "/m/02fs_r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0G7rb74R-2A_30.wav", "captions": "A man speaking on a microphone as a crowd of people laugh followed by dinner plates clacking", "labels": "/m/02qldy,/m/05zppz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/LvhvAA11oxE_10.wav", "captions": "A vehicle engine repeatedly revving as tires skid while a man talks over an intercom and wind blows into a microphone", "labels": "/m/07yv9,/m/09x0r,/m/0h9mv,/m/0ltv,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CMUuelJFJ7Q_30.wav", "captions": "A bell ringing followed by a clock ticking", "labels": "/m/07qjznl,/m/07qjznt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/NmmbNqmsPaY_10.wav", "captions": "An engine idling with bells ringing in the background", "labels": "/m/07pb8fc,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/jinJkonlrWc_330.wav", "captions": "An engine running and muffled speech", "labels": "/m/09ct_,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/R_g4RpU9mO0_30.wav", "captions": "A motorboat engine running idle then accelerating as water trickles followed by water spraying", "labels": "/m/019jd,/m/02rlv9,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1wW0YJQ-Xa0_370.wav", "captions": "A person coughing followed by a series of compressed air sprays as tin and plastic rattle then a man speaking as a crowd of people talk in the background", "labels": "/m/07qlf79,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BOB65Nd0pXo_180.wav", "captions": "A helicopter engine operating while wind blows heavily into a microphone", "labels": "/m/02l6bg,/m/07yv9,/m/09ct_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/xbLW9Wt1Jsg_70.wav", "captions": "Some rustling with short bursts of vibrations from a sewing machine", "labels": "/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3ndid3jni7M_40.wav", "captions": "A loud horn honking followed by a bell ringing together with clickety-clacking train passing by", "labels": "/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr,/m/07rwm0c"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/tJhVH3VIrnE_80.wav", "captions": "A object is hitting a surface followed by a loud boom", "labels": "/m/02dgv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/yRoKi7rhSRo_20.wav", "captions": "A toilet flushes and water drains", "labels": "/m/01jt3m,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2msevPMQB4M_10.wav", "captions": "A power tool vibrating and humming", "labels": "/m/01d380,/m/07k1x"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7MLERaOgK_Y_200.wav", "captions": "A girl sings while a sewing machine stitches and then speaks when it stops", "labels": "/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/OVQMFBeCHq0_13.wav", "captions": "Low frequency emergency siren going off followed by the siren slowing briefly", "labels": "/m/012n7d,/m/03j1ly,/m/03kmc9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Xz56Q2Q5j5c_570.wav", "captions": "Wood being scraped along with mechanical sounds", "labels": "/m/07k1x,/m/083vt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9z2OwpftxUE_10.wav", "captions": "Heavy wind and thunder", "labels": "/m/0ngt1"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/n4VktYihtJU_5.wav", "captions": "Strong gusts of wind are followed by cheers and shouts from several people plus the chatter of girl", "labels": "/m/07swgks,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0_K6OKtoBBU_30.wav", "captions": "A cat is meowing", "labels": "/m/01yrx,/m/068hy,/m/07qrkrw,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9hxFqltp3xw_30.wav", "captions": "A woman speaking followed by spraying", "labels": "/m/07qlf79,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/LvMA1Wcgu3w_30.wav", "captions": "A man talking followed by plastic creaking and clacking as frogs croak and crickets chirp", "labels": "/m/09ld4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/W4GEwnXc9tQ_30.wav", "captions": "While music plays in the background, a frog croaks, young females speak and laugh, and a young male speaks", "labels": "/m/09ld4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/HxZADVzNIqs_30.wav", "captions": "Birds chirping and water dripping with some banging in the background", "labels": "/m/015p6,/m/020bb7,/m/07pggtn"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9vZDsGjyh5M_40.wav", "captions": "Vehicle motor running", "labels": "/m/07r04,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9MgGaTbmc6g_30.wav", "captions": "A vehicle revving and accelerating as tires skid and squeak on a road", "labels": "/m/02mk9,/m/07q2z82,/m/07yv9,/m/0k4j,/t/dd00066"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/lX3k5p2I_g0_140.wav", "captions": "Man talking in the wind and someone yells in the background while an engine makes squealing and air puffing sounds", "labels": "/m/014yck,/m/02mk9,/m/07yv9,/m/09x0r,/m/0cmf2,/m/0k5j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/eu5bq0A3XVQ_250.wav", "captions": "A male voice talks after doing some burps", "labels": "/m/03q5_w,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/jYPU6aSDo88_50.wav", "captions": "An airplane engine and then light talking", "labels": "/m/014yck,/m/07yv9,/m/09x0r,/m/0k5j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/EcihYbSlyck_30.wav", "captions": "Vehicles are moving, horns are sounding, the door alarm to a bus is beeping", "labels": "/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/FJkvAMLmejY_7.wav", "captions": "People whisper and then a horn sounds and people laugh", "labels": "/m/0912c9,/m/09x0r,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/QRtuOWWya30_160.wav", "captions": "Metal clacking followed by a man talking as metal rattles while light guitar music plays in the background", "labels": "/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Bn4lc01q9vE_30.wav", "captions": "Water splashing followed by a woman speaking", "labels": "/m/0130jx,/m/02jz0l,/m/03dnzn,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/oNHCc_izsDE_10.wav", "captions": "Water splashing and a baby laughing", "labels": "/m/01j3sz,/m/07rrlb6"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4pv3w--cRrA_16.wav", "captions": "An electric motor runs then a person speaks", "labels": "/m/09t49"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3ejndVEAcmQ_11.wav", "captions": "A cat meowing and hissing", "labels": "/m/01yrx,/m/068hy,/m/07qrkrw,/m/07r81j2,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/22L_3pBa1AI_18.wav", "captions": "A car is shifting gears", "labels": "/m/07yv9,/m/0k4j,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/IdBDl9Wr51A_10.wav", "captions": "Synthesized laser effects and explosions as a man talks followed by a deeper voiced man talking then woman laughing", "labels": "/m/07rqsjt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-FW109cbv0g_30.wav", "captions": "Speech and then a sneeze and laughter", "labels": "/m/01hsr_,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8DQfjqPCTI8_450.wav", "captions": "Swarm of bees buzzing and two men speaking", "labels": "/m/01h3n,/m/03vt0,/m/0h2mp"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Hdxfbpnd2-8_140.wav", "captions": "A man talking then whistling", "labels": "/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/k1QxQ4jJaEQ_340.wav", "captions": "A man talking as an idle truck engine runs", "labels": "/m/07r04,/m/07yv9,/m/09x0r,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/S8k47ME-YT4_100.wav", "captions": "Plastic cranking as rain heavily pours while a stream of water rapidly flows", "labels": "/m/06mb1,/m/0jb2l,/m/0ngt1"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/SNy_axSCoyw_30.wav", "captions": "Mechanical sound with clock tick-tocking", "labels": "/m/07qjznl"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3Sml1wHcuxo_40.wav", "captions": "A train horn goes off loudly", "labels": "/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr,/m/07rwm0c"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/G3YO2unWz7k_290.wav", "captions": "Sputtering of an idling and revving engine", "labels": "/m/04_sv,/m/07yv9,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8nUqSYC66mI_30.wav", "captions": "Several people cheer and scream and speak as water flows hard", "labels": "/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/e2rScj9UyMs_30.wav", "captions": "Pigeons cooing and bird wings flapping as footsteps shuffle on paper", "labels": "/m/015p6,/m/0h0rv,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/gkWd1HugK2w_30.wav", "captions": "Pigeons coo and flap their wings", "labels": "/m/015p6,/m/0h0rv,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/DNtF_mGzQes_30.wav", "captions": "A crowd of children talking as a man speaks over an intercom as a large truck engine runs idle followed by pressurized air releasing", "labels": "/m/07r04,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/pTJKJxaheI8_30.wav", "captions": "A man speaks with faint ticks of a clock", "labels": "/m/07qjznl,/m/07qjznt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/SoO1HhaEc9Q_30.wav", "captions": "Rhythmic squeaking is ongoing, pigs oink, an adult male speaks, and music plays faintly in the background", "labels": "/m/09x0r,/t/dd00018"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/MvHpNzDpC6Q_50.wav", "captions": "Men riding in the car talking then man burps loudly and then the other chuckles", "labels": "/m/012f08,/m/03q5_w,/m/07yv9,/m/09x0r,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6ZwYgzcN6Is_60.wav", "captions": "A woman yelling and laughing as a group of people shout while ocean waves crash and wind blows into a microphone", "labels": "/m/09x0r,/m/0j6m2,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0On6-JiVwRs_100.wav", "captions": "Cat meowing sadly", "labels": "/m/01yrx,/m/068hy,/m/09t49,/m/0jbk,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3rna9zo5ZOs_30.wav", "captions": "A man is giving a speech and a crowd cheers", "labels": "/m/02qldy,/m/05zppz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/27HIamF8pKo_110.wav", "captions": "Railroad tracks clickety-clack as a train horn blasts", "labels": "/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr,/m/07rwm0c"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/y-RSojxgkDo_0.wav", "captions": "A male speech and a bird chirping", "labels": "/m/015p6,/m/068hy,/m/07pggtn"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_9mgOkzm-xg_120.wav", "captions": "A man speaks as food sizzles followed by some cracks", "labels": "/m/09x0r,/m/0dxrf,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1Og2TJ3bXW0_20.wav", "captions": "An aircraft engine humming followed by plastic clanking then an aircraft engine slowing down", "labels": "/m/07yv9,/m/0cmf2,/m/0k5j,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/WUpeplQr3A4_300.wav", "captions": "A man shrilling followed by a power tool drilling and a man screaming as liquid splatters", "labels": "/m/01d380"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/g_P29ucKj78_30.wav", "captions": "A race car accelerating and driving as plastic rattles", "labels": "/m/07yv9,/m/0k4j,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BDpU2Qh77NE_30.wav", "captions": "A bird making vocalizations from a distance followed by several people whispering nearby", "labels": "/m/015p6,/m/020bb7,/m/07pggtn"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7RMpCCkQks0_20.wav", "captions": "An industrial motor is humming, and ripping and tearing are occurring", "labels": "/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4eyY1w2QyM0_6.wav", "captions": "Ocean waves are hitting the shores", "labels": "/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Fi4-IqJo2xQ_20.wav", "captions": "Humming and rattling from a revving engine", "labels": "/m/02mk9,/m/07rqsjt,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/IKnx3hJv1bs_150.wav", "captions": "Bad quality audio", "labels": "/m/07qlf79"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/r2KhpX_QgXA_230.wav", "captions": "A man speaks as a machine hums quietly and then increases in volume", "labels": "/m/02mk9,/m/02x984l,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/LP_DzNUkAKY_490.wav", "captions": "People speaking faintly with some humming and a hydraulic hiss", "labels": "/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7JWHbs3gu1w_180.wav", "captions": "A train roars and honks it horn", "labels": "/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr,/m/07rwm0c"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BwnGxJD9xh8_30.wav", "captions": "Speech and a goat bleating", "labels": "/m/03fwl,/m/068hy,/m/07bgp,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/iOCpICiu4LA_320.wav", "captions": "Insects buzzing and birds chirping as a man talks followed by a loud plastic popping", "labels": "/m/01h3n,/m/03l9g,/m/03vt0,/m/0h2mp"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/kOYg4ZtKcAs_0.wav", "captions": "A small motor vibrating followed by a cat meowing", "labels": "/m/01yrx,/m/068hy,/m/07qrkrw,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ENTi8Sn4vdM_20.wav", "captions": "A river stream flowing while a woman and a kid are talking as birds chirp in the background", "labels": "/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/PRUfwpmYwJ8_30.wav", "captions": "A man talking as compressed air is spraying with wood clanking in the distance", "labels": "/m/07qlf79,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ObWjGBJF_94_350.wav", "captions": "Hissing and rattling", "labels": "/m/02jz0l,/m/07ptzwd"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8GHLfJ6y6zA_570.wav", "captions": "A man talking with keyboard typing and computer mouse clicking", "labels": "/m/01m2v,/m/0316dw,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/n-JyOqYSLQM_30.wav", "captions": "Metal clanking followed by plastic rattling and air spraying with a group of people talking faintly in the background", "labels": "/m/07qlf79"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/maVYiednkSg_60.wav", "captions": "A man speaks with spraying and vibration in the background", "labels": "/m/07qlf79,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ZUmZgPL0ges_20.wav", "captions": "Multiple large bells are madly ringing", "labels": "/m/0395lw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/DrCm-HpX67k_180.wav", "captions": "Opening and closing followed by tapping", "labels": "/m/083vt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/EUZaxaWqhwg_40.wav", "captions": "A slap occurs and an aircraft engine runs as a man and child talk", "labels": "/m/07yv9,/m/0cmf2,/m/0k5j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/hqPBcvex1VU_18.wav", "captions": "An infant crying as a woman mumbles", "labels": "/m/09x0r,/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/j_NSuPnx5LA_40.wav", "captions": "Dialing phone followed by clack sound", "labels": "/m/07cx4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Efk5kdn9lR8_21.wav", "captions": "Child talking then door crashing and her screaming", "labels": "/m/02dgv,/m/02y_763,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/fPqj3nnwQOI_270.wav", "captions": "Ocean waves crashing and water trickling", "labels": "/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ZTYAQBnU4GM_20.wav", "captions": "Pet birds tweet, chirp, and sing while music plays", "labels": "/m/015p6,/m/068hy,/m/07pggtn"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Fc9pG54DDJM_30.wav", "captions": "A toilet flushing followed by paper crinkling and a door slamming in the distance", "labels": "/m/01jt3m,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/pHNMcX-9FDs_40.wav", "captions": "A dog whimpering constantly then ultimately growls", "labels": "/m/068hy,/m/0bt9lr,/m/0jbk,/t/dd00136"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/R91bUbtKrRs_30.wav", "captions": "Two women are talking, and a baby cries", "labels": "/m/09x0r,/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/m8wV38lf2jg_20.wav", "captions": "Emergency sirens and muffled speech", "labels": "/m/03j1ly,/m/03kmc9,/m/04qvtq,/m/07yv9,/m/09x0r,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/cNARVD02-tw_530.wav", "captions": "A man and an elderly woman talking as plastic clacks followed by a faucet pouring water as water runs down a drain", "labels": "/m/02jz0l,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/q1ivQ_2fddk_150.wav", "captions": "Constant hissing with mean having conversation", "labels": "/m/07qlf79,/m/09x0r,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/qakN0JNbpcU_170.wav", "captions": "A man is speaking and a fly is buzzing around", "labels": "/m/01h3n,/m/03vt0,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/WLzzpzOKtnY_430.wav", "captions": "Male speech and an insect buzzing", "labels": "/m/01h3n,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4YMXgLFcR94_30.wav", "captions": "A man speaks and then an audience claps", "labels": "/m/02qldy,/m/05zppz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/HdPSebdDxe4_90.wav", "captions": "A male speaking and then growling followed by more male speaking", "labels": "/m/03q5_w"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_z6pymOet7g_50.wav", "captions": "A man talking followed by a toilet flushing", "labels": "/m/01jt3m,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/nmLMLgWPmFM_240.wav", "captions": "A motorboat engine running as water splashes and a man shouts followed by birds chirping in the background", "labels": "/m/09x0r,/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/tB8TiiXwKmA_60.wav", "captions": "A drill running", "labels": "/m/01d380,/m/07k1x,/m/0_ksk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/pHYkWkZ4guE_320.wav", "captions": "Scraping and hissing with some light knocks", "labels": "/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/gbi6MxPf3hA_30.wav", "captions": "Winds and ocean waves crashing while a chime instrument briefly plays a melody", "labels": "/m/034srq,/m/03m9d0z,/m/05kq4,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/tdpiXW68adA_50.wav", "captions": "A woman sobbing and speaking", "labels": "/m/0463cq4,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/MkbP_8zJwXU_40.wav", "captions": "A bird chirping as water lightly trickles and wind blows into a microphone", "labels": "/m/015p6,/m/068hy,/m/09ddx,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8ZH_PoK0clI_14.wav", "captions": "Footsteps then a woman speaks followed by a door clanging", "labels": "/m/02dgv,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/y_OyLW9lBXU_10.wav", "captions": "A baby cries and people speak", "labels": "/m/09x0r,/t/dd00002"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/p9qRTh4BmSE_30.wav", "captions": "Adult males shout in the distance and an adult male shout close by, two adult males speak in the foreground, and gunfire erupts", "labels": "/m/032s66,/m/04zjc"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3qTL7QRk-tg_30.wav", "captions": "Water running together with distant singing and brief clanking", "labels": "/m/07swgks,/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/sl_Pxpc7beo_30.wav", "captions": "A vehicle is honking the horn", "labels": "/m/07yv9,/m/0912c9,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/B3O476LeuXY_30.wav", "captions": "An idle motorbike engine running", "labels": "/m/07pb8fc,/t/dd00130"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/G0IsabU5hn4_3.wav", "captions": "Wind blowing heavily into a microphone as ocean waves crash and leaves rustle", "labels": "/m/09t49,/t/dd00092"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/w_Utn3CwAXE_50.wav", "captions": "A toilet flushes followed by a metal latch clanking then a door slowly creaking open", "labels": "/m/01jt3m,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rvtA7c1I4xo_0.wav", "captions": "Whooshing of wind followed by a man speaking with sneakers squeaking on hardwood", "labels": "/m/07rqsjt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/I_8KqxP5xOA_50.wav", "captions": "A sprayer is spraying surfaces", "labels": "/m/07qlf79"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/twFypUcdgRc_30.wav", "captions": "A man yelling as another man is laughing as wind blows heavily into a microphone", "labels": "/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6pssFJ0m-kU_60.wav", "captions": "Leaves rustle in the wind as small birds chirp", "labels": "/m/015p6,/m/020bb7,/m/07pggtn"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/54eRRbCtPn8_30.wav", "captions": "An adult female speaks in a quiet environment", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/p_BB_rJaF7Q_0.wav", "captions": "Male speaking softly with nature sounds in background", "labels": "/m/09ld4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/350OCezayrk_30.wav", "captions": "An engine being turned over and then started", "labels": "/m/02mk9,/m/07yv9,/m/0k4j,/t/dd00066,/t/dd00130"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/K8-b0VtNOqA_4.wav", "captions": "Horses snorting then neighing as footsteps shuffle and people talk in the background", "labels": "/m/03k3r,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8ycflE3dIHw_160.wav", "captions": "Train passing followed by short honk", "labels": "/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr,/m/07rwm0c"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BUAPM4D3-h8_290.wav", "captions": "Women, child talking and birds chirping", "labels": "/m/015p6,/m/020bb7,/m/07pggtn"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1IoHRTUp86c_70.wav", "captions": "An aircraft engine humming as a woman speaks over an intercom followed by an aircraft engine accelerating", "labels": "/m/07yv9,/m/0k5j,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/XQxIXaX_7M0_30.wav", "captions": "Water rushing loudly while a man yells in the background", "labels": "/m/09t49,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4ftDFi4684Y_30.wav", "captions": "Several slight bangs occur during a constant ticktock", "labels": "/m/07qjznl"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/eYbFtxZmKL4_110.wav", "captions": "Clanking and rustling with people faintly speaking and horse clip-clopping in the background", "labels": "/m/03k3r,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/v59uHr-B1no_18.wav", "captions": "Frogs and crickets chirping during nature ambiance", "labels": "/m/09ld4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Bz9Y5nZK3eo_21.wav", "captions": "Typing on a keyboard", "labels": "/m/01m2v,/m/0316dw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/c6YJgZ3qzOw_380.wav", "captions": "A toy helicopter flying followed by wind blowing into a microphone", "labels": "/m/09ct_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/3hzy-FL24no_17.wav", "captions": "A stream of water flowing and trickling as a small motor hum in the background followed by camera muffling", "labels": "/m/0j6m2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/wbPmnxCLoRQ_40.wav", "captions": "Several bells ringing rapidly and then a single bell", "labels": "/m/0395lw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/s_EWjoiVfzo_310.wav", "captions": "A sewing machine operating several times followed by metal clanking", "labels": "/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/mSF_FqBtRPs_20.wav", "captions": "A telephone ringing with loud echo", "labels": "/m/01hnzm,/m/07cx4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/5OM3tJh51pE_30.wav", "captions": "A lady speaking", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/_BSmz3SEW1w_30.wav", "captions": "Pigeons coo and rustle", "labels": "/m/015p6,/m/0h0rv,/t/dd00125,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Ot0bN_hz2ec_20.wav", "captions": "A train horn honks with a train racing by", "labels": "/m/0195fx,/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr,/m/07rwm0c"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/HkbCUN4V3TU_20.wav", "captions": "A girl screams and people speak", "labels": "/m/09x0r,/m/0ytgt,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/TSdAJWJ-tW0_12.wav", "captions": "Two vehicles drive by as a man is speaking in the distance", "labels": "/m/012f08,/m/07yv9,/m/0k4j,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4sb9jN0SgTM_26.wav", "captions": "A motor vehicle engine runs and revs, then it stops and an adult male speaks", "labels": "/m/02mk9,/m/07pb8fc,/m/07q2z82,/m/07yv9,/m/09x0r,/m/0k4j,/t/dd00066"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/DjKGzOe_COc_30.wav", "captions": "A woman is performing a speech", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/MtK8L8gXRrI_20.wav", "captions": "A toilet is flushing followed by a cat meowing", "labels": "/m/01jt3m"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1FNJbN-eHY4_30.wav", "captions": "Burping and girls laughing with many voices in the background", "labels": "/m/03q5_w,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/tNxfdAd14qE_30.wav", "captions": "Mechanical rotation and then a loud click occurs", "labels": "/m/07p9k1k"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/lgwpIImXCWA_180.wav", "captions": "A man briefly speaks followed by a sawing sound, and then starts talking again", "labels": "/m/083vt,/m/09x0r,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Xi6V0LGvqoo_0.wav", "captions": "A dog barking followed by a dog growling as footsteps squeak on a hard surface floor and followed by series of metal clicks", "labels": "/m/01z5f,/m/068hy,/m/07rc7d9,/m/0bt9lr,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/K-7Y8yhcUiw_60.wav", "captions": "An animal snores", "labels": "/m/01d3sd,/m/068hy,/m/0bt9lr,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/0AsXkZkqelg_30.wav", "captions": "A loud bang followed by an engine idling loudly", "labels": "/m/028ght"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6ukYSXzfEgQ_20.wav", "captions": "Metal clacking followed by water flowing and splashing into a container then draining down a pipe", "labels": "/m/02jz0l,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Boe3MeEpn_c_380.wav", "captions": "A man speaking, with the clinking of dishes in the background, following by the hiss of an oil mister spraying", "labels": "/m/04brg2,/m/09x0r,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1WTSW96XP6E_180.wav", "captions": "A man speaks followed by several clicks then an engine struggling to start", "labels": "/m/04_sv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AI1OweEW8C0_50.wav", "captions": "Light rain and water dripping followed by thunder", "labels": "/m/06mb1,/m/07r10fb,/m/0jb2l,/m/0ngt1"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/cFoXRmGgIME_20.wav", "captions": "A train horn honking as a train is running on a railroad track and wind is blowing into a microphone", "labels": "/m/01g50p,/m/0284vy3,/m/04zmvq,/m/06d_3,/m/07jdr,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4CAMv5nlr-0_30.wav", "captions": "A man speaking followed by a crowd of people applauding and cheering", "labels": "/m/02qldy,/m/05zppz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Hg6HxylRGDo_29.wav", "captions": "Emergency sirens wailing", "labels": "/m/012n7d,/m/03j1ly,/m/03kmc9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ggN4-K5AgoM_90.wav", "captions": "A toilet flushing", "labels": "/m/01jt3m,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/V8A0VRGdgwM_10.wav", "captions": "Pebbles and rocks bouncing off of a wooden surface as footsteps walk on gravel and dirt followed by a goat baaing as a muffled animal moan in the background", "labels": "/m/03fwl,/m/07q0h5t,/m/0ch8v,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2KEfkDO6hlA_30.wav", "captions": "Vehicle accelerating", "labels": "/m/012f08,/m/07yv9,/m/0k4j,/t/dd00134"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/mW1EpJYcy_E_70.wav", "captions": "A motorbike accelerating and revving as wind blows into a microphone", "labels": "/m/04_sv,/m/07yv9,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/R8bHTHnF8j4_100.wav", "captions": "A helicopter engine running idle", "labels": "/m/07yv9,/m/09ct_,/m/0k5j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/DAN1t9ukkg0_30.wav", "captions": "A person is typing keyboard with some mouse clicking", "labels": "/m/01m2v,/m/0316dw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/JHhEjsAkZoc_20.wav", "captions": "A train is passing by and sound its whistle.", "labels": "/m/01g50p,/m/0284vy3,/m/06d_3,/m/07jdr,/m/07rwm0c"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9PN4gyxpH2M_40.wav", "captions": "A man and a woman talking then the crinkling of paper", "labels": "/m/09x0r,/t/dd00112"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7bO0AJI-ihs_30.wav", "captions": "Horses trotting on a hard surface as a motor rumbles rapidly for a brief period in the background", "labels": "/m/03k3r,/m/07rv9rh,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/LF6x7B0Ppvo_20.wav", "captions": "A racing car is driving fast", "labels": "/m/07yv9,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/z1ax0QPpd14_170.wav", "captions": "A large duck quacks and small ducks chirp", "labels": "/m/015p6,/m/09ddx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Ujje3lSabsg_0.wav", "captions": "Soft, rapid snoring is ongoing, and faint speech occurs in the background", "labels": "/m/01d3sd"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/5K1mISHwggI_30.wav", "captions": "A man speaks with others speaking in the distance and traffic passing with a few horns honking", "labels": "/m/02mk9,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/JdFmMw0zyKA_0.wav", "captions": "A kid speaking followed by a seal making noises then water splashing as a kid and woman are laughing", "labels": "/m/01j3sz,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/D96OO7nYYsg_30.wav", "captions": "A vehicle accelerating then revving", "labels": "/m/07q2z82,/m/07yv9,/m/0k4j"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/vaujJ7msKfc_150.wav", "captions": "Wind blowing with distant traffic passing and sirens ringing", "labels": "/m/012n7d,/m/03j1ly,/m/03kmc9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/lrKGCtSsAkA_50.wav", "captions": "A toy helicopter engine flying as wind blows into a microphone", "labels": "/m/09ct_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/EY4p0_NJVQs_30.wav", "captions": "A woman is performing a speech", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/xqtrbqDlz28_20.wav", "captions": "A sneeze occurs followed by sniffling and the start of another sneeze, while a baby coos in the background", "labels": "/m/01hsr_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/c3nlaAkv9bA_230.wav", "captions": "A male voice talking and the bleat of a goat", "labels": "/m/03fwl,/m/068hy,/m/09x0r,/m/0ch8v,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9_YfTz8cnFY_40.wav", "captions": "Steam hissing followed by a train whistle blowing and a group of people talking in the background", "labels": "/m/06hck5,/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/--0w1YA1Hm4_30.wav", "captions": "High pitched speaking and laughing", "labels": "/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/1vCYiVvZ7VE_30.wav", "captions": "A woman speeches", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/jj2RyNDj7no_440.wav", "captions": "Birds chirping as insects buzzing followed by a man talking in the distance", "labels": "/m/01h3n,/m/03vt0,/m/0h2mp"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6dLkgq9EKPE_30.wav", "captions": "A man speaks with some faint clicks and humming", "labels": "/m/01bjv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/GGgQR7aIofY_40.wav", "captions": "A horn beeps a tune, and a large motor vehicle engine is running and gets louder", "labels": "/m/012f08,/m/01bjv,/m/07yv9"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/S0SQyFXbqF8_30.wav", "captions": "A child talking then laughing with a man as an animal gurgles", "labels": "/m/09ld4"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bLZFtoWXYTA_0.wav", "captions": "A cup is filled from a faucet", "labels": "/m/02jz0l"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ndxkSQKxaak_30.wav", "captions": "A motorcycle engine is running while a man is talking", "labels": "/m/04_sv,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/ii3Geza3hAU_210.wav", "captions": "Vibrations from a sewing machine", "labels": "/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/niwgMbB6tpQ_10.wav", "captions": "Plastic clicking and clacking followed by a woman snoring", "labels": "/m/01d3sd"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/AUJPx81qKtY_0.wav", "captions": "A man talks and insects buzz", "labels": "/m/01h3n,/m/03vt0,/m/0h2mp"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/6i5eQOpFk_U_170.wav", "captions": "Water flowing from a faucet with some light bangs and a man speaking", "labels": "/m/0130jx,/m/02jz0l,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/XWw7ZM1c_QA_30.wav", "captions": "Wood sanding followed by a woman talking as a clock ticks proceeded by a cuckoo clock alarm cooing and bell ringing", "labels": "/m/07qjznl,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/SQHYl2Kp5ww_10.wav", "captions": "Music plays while two men speak each other with dishes clanking and food sizzling", "labels": "/m/07ptfmf,/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/4UPOUGVMlEs_30.wav", "captions": "Snorting and breathing", "labels": "/t/dd00018"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/o3mZR8OvPko_30.wav", "captions": "A racing vehicle accelerating and revving while tires skid and squeal", "labels": "/m/07yv9,/m/0k4j,/m/0ltv,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/MVGhC-xB79s_30.wav", "captions": "Whistling is ongoing, a child speaks and an adult male speaks, birds coo, and rustling and soft metal clattering are occurring", "labels": "/m/015p6,/m/09x0r,/m/0h0rv,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/Q0anPAIkfBE_60.wav", "captions": "A baby sobs and then a woman speaks followed a woman laughing", "labels": "/m/0463cq4,/m/09x0r,/t/dd00002,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/eqcdsdLz954_21.wav", "captions": "A synthesized whooshing followed by an explosion and fire crackling while gusts of wind blow", "labels": "/m/014zdl,/m/07qsvvw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/QTSKjweEWew_170.wav", "captions": "Wind blowing followed by a man speaking", "labels": "/m/03m9d0z,/m/09x0r,/t/dd00129"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/rINmxSXMR-s_30.wav", "captions": "A duck quacks and splashes and a human chuckles", "labels": "/m/07qdb04,/m/09ddx,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/mGa2JgAiKV8_30.wav", "captions": "Young man speaking with slight movement sounds", "labels": "/m/07pqc89,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/kLYCjD6vWI4_30.wav", "captions": "Hissing of a steam engine train", "labels": "/m/06wzb,/m/07rjwbb"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/CwxgQS3SXic_160.wav", "captions": "Vibrations from a sewing machine", "labels": "/m/0llzx"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/E9zN3-C64KE_25.wav", "captions": "Scratching noises accompanied by a female voice", "labels": "/m/09x0r,/t/dd00018"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/8o-Y4QP8LWs_280.wav", "captions": "Some clanking and banging and a man speaking", "labels": "/m/023pjk,/m/04brg2"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/OFVzrakJhbw_30.wav", "captions": "A woman laughing followed by the bleating of sheep and a soft breeze", "labels": "/m/068hy,/m/07bgp,/m/07q0h5t,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/TWOgvDaDqlU_200.wav", "captions": "A power tool drilling followed by a large motor running as wood is being sawed", "labels": "/m/083vt"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/BQ-r9mEHssU_17.wav", "captions": "A woman laughs and talk as a hose clip-clops", "labels": "/m/03k3r,/m/07rv9rh,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7upINC4seBw_30.wav", "captions": "A man talking as an idle motorboat engine runs and water trickles while wind is blowing into a microphone", "labels": "/m/019jd,/m/02rlv9,/m/07yv9,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/F-47fRplQEc_6.wav", "captions": "Different female voices speaking followed by sheep bleating from a distance and voices of young people shortly thereafter", "labels": "/m/07bgp,/m/07q0h5t,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/o7jW6Suyfbs_80.wav", "captions": "A man talks in the distance followed by several vehicles driving and accelerating", "labels": "/m/012f08,/m/07yv9,/m/0k4j,/m/0ltv"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/lq9RvAA4mqY_180.wav", "captions": "A man talking then clearing his throat as food sizzles and a metal pot clangs", "labels": "/m/07ptfmf,/m/0dxrf"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/9z8XIRyUq9Q_30.wav", "captions": "A woman speaking", "labels": "/m/02qldy,/m/02zsn,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/7P0N61TVOxE_150.wav", "captions": "A band plays horn and string instruments while waves crash nearby", "labels": "/m/034srq,/m/03m9d0z,/m/05kq4,/m/085jw"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/2ABngPM3raQ_30.wav", "captions": "A man talking as music is playing followed by a frog croaking", "labels": "/m/09ld4,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/JhGp7HmRQxg_0.wav", "captions": "A metal clack followed by a horse neighing as gusts of wind blow and birds chirp in the background", "labels": "/m/03k3r,/m/07q5rw0,/m/09x0r,/m/0jbk"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/PWjEfOkb6ro_21.wav", "captions": "Water running with distant speech in the background", "labels": "/m/07swgks,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/gW7s3YAthpI_430.wav", "captions": "A person gulping followed by glass tapping then liquid shaking in a container proceeded by liquid pouring before plastic thumps on paper", "labels": "/m/02jz0l,/m/0838f"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/JmWaRt8-u0s_480.wav", "captions": "A motorcycle engine running idle while two men communicate with each other", "labels": "/m/04_sv,/m/07yv9,/m/09x0r,/t/dd00066"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-JP1GqPEKtw_130.wav", "captions": "A man talking as a power tool motor runs followed by the buzzing of an electric sanding machine", "labels": "/m/07k1x,/m/083vt,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/oN0IcZaHD_8_230.wav", "captions": "A man speaks followed by a tools drilling wood", "labels": "/m/01d380,/m/07k1x,/m/083vt,/m/09x0r,/t/dd00125"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/30D1tqNFHMc_30.wav", "captions": "A loud white noise and then some beeping", "labels": "/m/01jwx6,/m/0chx_"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/sCzRVvu9XeY_0.wav", "captions": "A rhythmic whistle plays a tune", "labels": "/m/01w250"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/-Sz4z0QwEuM_20.wav", "captions": "A long, loud burp", "labels": "/m/03q5_w"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/eXj9OAik5cc_370.wav", "captions": "An idle motorbike engine running as a bird chirps in the background and wind blows into a microphone", "labels": "/m/04_sv,/m/07yv9,/t/dd00128"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/bhlhcGONisM_130.wav", "captions": "A man speaks followed by thumps and clicks with some faint grunts", "labels": "/m/0316dw,/m/09x0r"}
+{"dataset": "audiocaps", "location": "/data/deep/audioset/data/JsoBpL86R5U_10.wav", "captions": "A woman talking then a child talking followed by a man talking then a goat yelling", "labels": "/m/03fwl,/m/07q0h5t,/m/09x0r,/m/0jbk"}

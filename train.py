@@ -23,9 +23,9 @@ import soundfile as sf
 import diffusers
 import transformers
 import tools.torch_tools as torch_tools
+from huggingface_hub import snapshot_download
 from models import build_pretrained_models, AudioDiffusion
 from transformers import SchedulerType, get_scheduler
-from tango import Tango
 
 logger = get_logger(__name__)
 
@@ -49,11 +49,11 @@ def parse_args():
         help="How many examples to use for training and validation.",
     )
     parser.add_argument(
-        "--text_encoder_name", type=str, required=True,
+        "--text_encoder_name", type=str, default="google/flan-t5-large",
         help="Text encoder identifier from huggingface.co/models.",
     )
     parser.add_argument(
-        "--scheduler_name", type=str, required=True,
+        "--scheduler_name", type=str, default="stabilityai/stable-diffusion-2-1",
         help="Scheduler identifier.",
     )
     parser.add_argument(
@@ -296,25 +296,19 @@ def main():
     text_column, audio_column = args.text_column, args.audio_column
 
     # Initialize models
+    pretrained_model_name = "audioldm-s-full"
+    vae, stft = build_pretrained_models(pretrained_model_name)
+    vae.eval()
+    stft.eval()
+
+    model = AudioDiffusion(
+        args.text_encoder_name, args.scheduler_name, args.unet_model_name, args.unet_model_config, args.snr_gamma, args.freeze_text_encoder, args.uncondition
+    )
+    
     if args.hf_model:
-        # Use with caution: We do not use the args.scheduler_name here
-        # The model will use the DDPMScheduler as specified in the pretraind config files
-        tango = Tango(args.hf_model, "cpu")
-        vae, stft, model = tango.vae, tango.stft, tango.model
-        accelerator.print(f"Resumed from huggingface checkpoint: {args.hf_model}")
-        model.snr_gamma = args.snr_gamma
-        model.freeze_text_encoder = args.freeze_text_encoder
-        model.uncondition = args.uncondition
-    else:
-        pretrained_model_name = "audioldm-s-full"
-        vae, stft = build_pretrained_models(pretrained_model_name)
-        vae.eval()
-        stft.eval()
-
-        model = AudioDiffusion(
-            args.text_encoder_name, args.scheduler_name, args.unet_model_name, args.unet_model_config, args.snr_gamma, args.freeze_text_encoder, args.uncondition
-        )
-
+        hf_model_path = snapshot_download(repo_id=args.hf_model)
+        model.load_state_dict(torch.load("{}/pytorch_model_main.bin".format(hf_model_path)))
+        
     if args.prefix:
         prefix = args.prefix
     else:
