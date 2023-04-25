@@ -26,6 +26,8 @@ class Tango:
         self.vae.load_state_dict(vae_weights)
         self.stft.load_state_dict(stft_weights)
         self.model.load_state_dict(main_weights)
+
+        print ("Successfully loaded checkpoint from:", name)
         
         self.vae.eval()
         self.stft.eval()
