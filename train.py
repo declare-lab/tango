@@ -307,7 +307,8 @@ def main():
     
     if args.hf_model:
         hf_model_path = snapshot_download(repo_id=args.hf_model)
-        model.load_state_dict(torch.load("{}/pytorch_model_main.bin".format(hf_model_path)))
+        model.load_state_dict(torch.load("{}/pytorch_model_main.bin".format(hf_model_path), map_location="cpu"))
+        accelerator.print("Successfully loaded checkpoint from:", args.hf_model)
         
     if args.prefix:
         prefix = args.prefix

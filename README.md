@@ -63,6 +63,8 @@ More generated samples are shown [here](https://github.com/declare-lab/tango/blo
 
 ## Prerequisites
 
+Our code is built on pytorch version 1.13.1+cu117. We mention `torch==1.13.1` in the requirements file but you might need to install a specific cuda version of torch depending on your GPU device type.
+
 Install `requirements.txt`. You will also need to install the `diffusers` package from the directory provided in this repo:
 
 ```bash

@@ -19,9 +19,9 @@ class Tango:
         self.stft = TacotronSTFT(**stft_config).to(device)
         self.model = AudioDiffusion(**main_config).to(device)
         
-        vae_weights = torch.load("{}/pytorch_model_vae.bin".format(path))
-        stft_weights = torch.load("{}/pytorch_model_stft.bin".format(path))
-        main_weights = torch.load("{}/pytorch_model_main.bin".format(path))
+        vae_weights = torch.load("{}/pytorch_model_vae.bin".format(path), map_location=device)
+        stft_weights = torch.load("{}/pytorch_model_stft.bin".format(path), map_location=device)
+        main_weights = torch.load("{}/pytorch_model_main.bin".format(path), map_location=device)
         
         self.vae.load_state_dict(vae_weights)
         self.stft.load_state_dict(stft_weights)
