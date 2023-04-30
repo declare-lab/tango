@@ -166,7 +166,7 @@ Please consider citing the following article if you found our work useful:
 ## Limitations
 TANGO is trained on the small AudioCaps dataset so it may not generate good audio samples related to concepts that it has not seen in training (e.g. _singing_). For the same reason, TANGO is not always able to finely control its generations over textual control prompts. For example, the generations from TANGO for prompts _Chopping tomatoes on a wooden table_ and _Chopping potatoes on a metal table_ are very similar. _Chopping vegetables on a table_ also produces similar audio samples. Training text-to-audio generation models on larger datasets is thus required for the model to learn the composition of textual concepts and varied text-audio mappings. 
 
-We are training another verison of TANGO on larger datasets to enhance its generalization, compositional and controllable generation ability.
+We are training another version of TANGO on larger datasets to enhance its generalization, compositional and controllable generation ability.
 
 ## Acknowledgement
 We borrow the code in `audioldm` and `audioldm_eval` from the [AudioLDM](https://github.com/haoheliu/AudioLDM) [repositories](https://github.com/haoheliu/audioldm_eval). We thank the AudioLDM team for open-sourcing their code.
