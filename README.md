@@ -3,6 +3,8 @@
 
 [Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [Demo](https://huggingface.co/spaces/declare-lab/tango)
 
+:fire: The demo of **TANGO** is live on [Huggingface Space](https://huggingface.co/spaces/declare-lab/tango)
+
 📣 We are inviting collaborators and sponsors to train **TANGO** on larger datasets, like AudioSET
 
 <br>
