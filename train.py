@@ -415,7 +415,7 @@ def main():
         if args.resume_from_checkpoint is not None or args.resume_from_checkpoint != "":
             accelerator.load_state(args.resume_from_checkpoint)
             # path = os.path.basename(args.resume_from_checkpoint)
-            accelerator.print(f"Resumed local from checkpoint: {args.resume_from_checkpoint}")
+            accelerator.print(f"Resumed from local checkpoint: {args.resume_from_checkpoint}")
         else:
             # Get the most recent checkpoint
             dirs = [f.name for f in os.scandir(os.getcwd()) if f.is_dir()]
