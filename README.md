@@ -1,7 +1,7 @@
 # TANGO: Text to Audio using iNstruction-Guided diffusiOn
 <!-- ![cover](img/tango-neurips.png) -->
 
-[Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [~~Demo~~](https://github.com/declare-lab/tango#tango-text-to-audio-using-instruction-guided-diffusion)
+[Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [Demo](https://huggingface.co/spaces/declare-lab/tango)
 
 📣 We are inviting collaborators and sponsors to train **TANGO** on larger datasets, like AudioSET
 
@@ -164,7 +164,9 @@ Please consider citing the following article if you found our work useful:
 }
 ```
 ## Limitations
-TANGO is not always able to finely control its generations over textual control prompts as it is trained only on the small AudioCaps dataset. For example, the generations from TANGO for prompts Chopping tomatoes on a wooden table and Chopping potatoes on a metal table are very similar. Chopping vegetables on a table also produces similar audio samples. Training text-to-audio generation models on larger datasets is thus required for the model to learn the composition of textual concepts and varied text-audio mappings. In the future, we plan to improve TANGO by training it on larger datasets and enhancing its compositional and controllable generation ability.
+TANGO is trained on the small AudioCaps dataset so it may not generate good audio samples related to concepts that it has not seen in training (e.g. _singing_). For the same reason, TANGO is not always able to finely control its generations over textual control prompts. For example, the generations from TANGO for prompts _Chopping tomatoes on a wooden table_ and _Chopping potatoes on a metal table_ are very similar. _Chopping vegetables on a table_ also produces similar audio samples. Training text-to-audio generation models on larger datasets is thus required for the model to learn the composition of textual concepts and varied text-audio mappings. 
+
+We are training another verison of TANGO on larger datasets to enhance its generalization, compositional and controllable generation ability.
 
 ## Acknowledgement
 We borrow the code in `audioldm` and `audioldm_eval` from the [AudioLDM](https://github.com/haoheliu/AudioLDM) [repositories](https://github.com/haoheliu/audioldm_eval). We thank the AudioLDM team for open-sourcing their code.
