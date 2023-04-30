@@ -25,3 +25,4 @@ ssr_eval==0.0.6
 torchlibrosa==0.1.0
 tqdm==4.63.1
 wandb==0.12.14
+ipython==8.12.0
