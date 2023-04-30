@@ -75,6 +75,12 @@ cd diffusers
 pip install -e .
 ```
 
+You might also need to install `libsndfile1` for soundfile to work properly in linux:
+
+```bash
+(sudo) apt-get install libsndfile1
+```
+
 ## Datasets
 
 Follow the instructions given in the [AudioCaps repository](https://github.com/cdjkim/audiocaps) for downloading the data. The audio locations and corresponding captions are provided in our `data` directory. The `*.json` files are used for training and evaluation. Once you have downloaded your version of the data you should be able to map it using the file ids to the file locations provided in our `data/*.json` files.
