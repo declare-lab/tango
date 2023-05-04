@@ -146,7 +146,7 @@ class AudioDiffusion(nn.Module):
         boolean_encoder_mask = (attention_mask == 1).to(device)
         return encoder_hidden_states, boolean_encoder_mask
 
-    def forward(self, latents, prompt):
+    def forward(self, latents, prompt, validation_mode=False):
         device = self.text_encoder.device
         num_train_timesteps = self.noise_scheduler.num_train_timesteps
         self.noise_scheduler.set_timesteps(num_train_timesteps, device=device)
@@ -159,8 +159,12 @@ class AudioDiffusion(nn.Module):
                 encoder_hidden_states[mask_indices] = 0
 
         bsz = latents.shape[0]
-        # Sample a random timestep for each instance
-        timesteps = torch.randint(0, self.noise_scheduler.num_train_timesteps, (bsz,), device=device)
+
+        if validation_mode:
+            timesteps = (self.noise_scheduler.num_train_timesteps//2) * torch.ones((bsz,), dtype=torch.int64, device=device)
+        else:
+            # Sample a random timestep for each instance
+            timesteps = torch.randint(0, self.noise_scheduler.num_train_timesteps, (bsz,), device=device)
         timesteps = timesteps.long()
 
         noise = torch.randn_like(latents)

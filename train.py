@@ -448,7 +448,7 @@ def main():
                     
                     true_latent = unwrapped_vae.get_first_stage_encoding(unwrapped_vae.encode_first_stage(mel))
 
-                loss = model(true_latent, text)
+                loss = model(true_latent, text, validation_mode=False)
                 total_loss += loss.detach().float()
                 accelerator.backward(loss)
                 optimizer.step()
@@ -485,7 +485,7 @@ def main():
                 mel = mel.unsqueeze(1).to(device)
                 true_latent = unwrapped_vae.get_first_stage_encoding(unwrapped_vae.encode_first_stage(mel))
 
-                val_loss = model(true_latent, text)
+                val_loss = model(true_latent, text, validation_mode=True)
                 total_val_loss += val_loss.detach().float()
                 eval_progress_bar.update(1)
 
