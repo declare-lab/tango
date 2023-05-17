@@ -115,6 +115,8 @@ accelerate launch train.py \
 
 Check `train.py` and `train.sh` for the full list of arguments and how to use them.
 
+The training script should automatically download the AudioLDM weights from [here](https://zenodo.org/record/7600541/files/audioldm-s-full?download=1). However if the download is slow or if you face any other issues then you can: i) download the `audioldm-s-full` file from [here](https://huggingface.co/haoheliu/AudioLDM-S-Full/tree/main), ii) rename it to `audioldm-s-full.ckpt`, and iii) keep it in `/home/user/.cache/audioldm/` direcrtory.
+
 ## How to make inferences?
 
 Checkpoint from training will be saved in the `saved/*/` directory.
