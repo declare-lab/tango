@@ -5,7 +5,7 @@
 
 :fire: The demo of **TANGO** is live on [Huggingface Space](https://huggingface.co/spaces/declare-lab/tango)
 
-📣 We are inviting collaborators and sponsors to train **TANGO** on larger datasets, like AudioSET
+📣 We are excited to share that Oracle Cloud has sponsored the project Tango. This will enable us to release new checkpoints trained on large-scale datasets -- stay tuned!!
 
 <br>
 
