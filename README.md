@@ -5,7 +5,7 @@
 
 :fire: The demo of **TANGO** is live on [Huggingface Space](https://huggingface.co/spaces/declare-lab/tango)
 
-📣 We are releasing [**Tango-Full-FT**](https://huggingface.co/declare-lab/tango-full-ft) which was first pre-trained on [**TangoPromptBank**](https://huggingface.co/datasets/declare-lab/TangoPromptBank), a collection of diverse text, audio pairs. We later fine tuned this checkpoint on AudioCaps. This checkpoint obtained state-of-the-art results for text-to-audio generation on AudioCaps.
+📣 We are releasing [**Tango-Full-FT-AudioCaps**](https://huggingface.co/declare-lab/tango-full-ft-audiocaps) which was first pre-trained on [**TangoPromptBank**](https://huggingface.co/datasets/declare-lab/TangoPromptBank), a collection of diverse text, audio pairs. We later fine tuned this checkpoint on AudioCaps. This checkpoint obtained state-of-the-art results for text-to-audio generation on AudioCaps.
 
 📣 We are excited to share that Oracle Cloud has sponsored the project Tango. This will enable us to release new checkpoints trained on large-scale datasets -- stay tuned!!
 
