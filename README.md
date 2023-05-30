@@ -10,8 +10,7 @@
 | Model Name                 | Model Path                                       |
 |----------------------------|-------------------------------------------------|
 | Tango                      | [https://huggingface.co/declare-lab/tango](https://huggingface.co/declare-lab/tango)                               |
-| Tango-Full-FT-Audiocaps    | [https://huggingface.co/declare-lab/tango-full-ft-audiocaps](https://huggingface.co/declare-lab/tango-full-ft-audiocaps) |
-
+| Tango-Full-FT-Audiocaps (state-of-the-art)    | [https://huggingface.co/declare-lab/tango-full-ft-audiocaps](https://huggingface.co/declare-lab/tango-full-ft-audiocaps) |
 
 📣 We are excited to share that Oracle Cloud has sponsored the project Tango. This will enable us to release new checkpoints trained on large-scale datasets -- stay tuned!!
 
