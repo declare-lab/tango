@@ -11,6 +11,7 @@
 |----------------------------|-------------------------------------------------|
 | Tango                      | [https://huggingface.co/declare-lab/tango](https://huggingface.co/declare-lab/tango)                               |
 | Tango-Full-FT-Audiocaps (state-of-the-art)    | [https://huggingface.co/declare-lab/tango-full-ft-audiocaps](https://huggingface.co/declare-lab/tango-full-ft-audiocaps) |
+[Tango-Full-FT-Audio-Music-Caps] | [https://huggingface.co/declare-lab/tango-full-ft-audio-music-caps](https://huggingface.co/declare-lab/tango-full-ft-audio-music-caps) |
 
 📣 We are excited to share that Oracle Cloud has sponsored the project Tango. This will enable us to release new checkpoints trained on large-scale datasets -- stay tuned!!
 
