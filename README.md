@@ -7,11 +7,14 @@
 
 📣 We are releasing [**Tango-Full-FT-AudioCaps**](https://huggingface.co/declare-lab/tango-full-ft-audiocaps) which was first pre-trained on [**TangoPromptBank**](https://huggingface.co/datasets/declare-lab/TangoPromptBank), a collection of diverse text, audio pairs. We later fine tuned this checkpoint on AudioCaps. This checkpoint obtained state-of-the-art results for text-to-audio generation on AudioCaps.
 
+# Tango Model Family
+
 | Model Name                 | Model Path                                       |
 |----------------------------|-------------------------------------------------|
 | Tango                      | [https://huggingface.co/declare-lab/tango](https://huggingface.co/declare-lab/tango)                               |
 | Tango-Full-FT-Audiocaps (state-of-the-art)    | [https://huggingface.co/declare-lab/tango-full-ft-audiocaps](https://huggingface.co/declare-lab/tango-full-ft-audiocaps) |
-[Tango-Full-FT-Audio-Music-Caps] | [https://huggingface.co/declare-lab/tango-full-ft-audio-music-caps](https://huggingface.co/declare-lab/tango-full-ft-audio-music-caps) |
+Tango-Full-FT-Audio-Music-Caps | [https://huggingface.co/declare-lab/tango-full-ft-audio-music-caps](https://huggingface.co/declare-lab/tango-full-ft-audio-music-caps) |
+| Tango-Full | [https://huggingface.co/declare-lab/tango-full](https://huggingface.co/declare-lab/tango-full) |
 
 📣 We are excited to share that Oracle Cloud has sponsored the project Tango. This will enable us to release new checkpoints trained on large-scale datasets -- stay tuned!!
 
