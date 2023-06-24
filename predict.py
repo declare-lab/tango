@@ -14,43 +14,62 @@ from cog import BasePredictor, Input, Path
 class Predictor(BasePredictor):
     def setup(self):
         """Load the model into memory to make running multiple predictions efficient"""
-        self.tango = Tango()
+        self.models = {
+            k: Tango(name=k)
+            for k in [
+                "tango",
+                "tango-full",
+                "tango-full-ft-audiocaps",
+                "tango-full-ft-audio-music-caps",
+            ]
+        }
 
     def predict(
         self,
         prompt: str = Input(
             description="Input prompt", default="An audience cheering and clapping"
         ),
+        model: str = Input(
+            description="choose a model",
+            choices=[
+                "tango",
+                "tango-full",
+                "tango-full-ft-audiocaps",
+                "tango-full-ft-audio-music-caps",
+            ],
+            default="tango",
+        ),
         steps: int = Input(description="inferene steps", default=100),
         guidance: float = Input(description="guidance scale", default=3),
     ) -> Path:
         """Run a single prediction on the model"""
 
-        audio = self.tango.generate(prompt, steps, guidance)
+        tango = self.models[model]
+        audio = tango.generate(prompt, steps, guidance)
         out = "/tmp/output.wav"
         sf.write(out, audio, samplerate=16000)
         return Path(out)
 
 
 class Tango:
-    def __init__(self, path="tango_weights", device="cuda:0"):
-        # weights are dowloaded from https://huggingface.co/declare-lab/tango-full/tree/main and saved to ./tango_weights
-        vae_config = json.load(open("{}/vae_config.json".format(path)))
-        stft_config = json.load(open("{}/stft_config.json".format(path)))
-        main_config = json.load(open("{}/main_config.json".format(path)))
+    def __init__(self, name="tango", path="tango_weights", device="cuda:0"):
+        # weights are dowloaded from f"https://huggingface.co/declare-lab/{name}/tree/main" and saved to ./tango_weights
+        vae_config = json.load(open(f"{path}/{name}/vae_config.json"))
+        stft_config = json.load(open(f"{path}/{name}/stft_config.json"))
+        main_config = json.load(open(f"{path}/{name}/main_config.json"))
 
         self.vae = AutoencoderKL(**vae_config).to(device)
         self.stft = TacotronSTFT(**stft_config).to(device)
         self.model = AudioDiffusion(**main_config).to(device)
 
         vae_weights = torch.load(
-            "{}/pytorch_model_vae.bin".format(path), map_location=device
+            f"{path}/{name}/pytorch_model_vae.bin", map_location=device
         )
         stft_weights = torch.load(
-            "{}/pytorch_model_stft.bin".format(path), map_location=device
+            f"{path}/{name}/pytorch_model_stft.bin", map_location=device
         )
         main_weights = torch.load(
-            "{}/pytorch_model_main.bin".format(path), map_location=device
+            f"{path}/{name}/pytorch_model_main.bin", map_location=device
         )
 
         self.vae.load_state_dict(vae_weights)
