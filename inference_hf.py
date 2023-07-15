@@ -61,10 +61,6 @@ def parse_args():
         "--batch_size", type=int, default=8,
         help="Batch size for generation.",
     )
-    parser.add_argument(
-        "--num_test_instances", type=int, default=-1,
-        help="How many test instances to evaluate.",
-    )
     
     args = parser.parse_args()
 
@@ -87,9 +83,6 @@ def main():
     prefix = ""
     text_prompts = [json.loads(line)[args.text_key] for line in open(args.test_file).readlines()]
     text_prompts = [prefix + inp for inp in text_prompts]
-    
-    if args.num_test_instances != - 1:
-        text_prompts = text_prompts[:args.num_test_instances]
         
     exp_id = str(int(time.time()))
     if not os.path.exists("outputs"):

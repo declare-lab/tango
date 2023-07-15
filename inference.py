@@ -63,10 +63,6 @@ def parse_args():
         "--num_samples", type=int, default=1,
         help="How many samples per prompt.",
     )
-    parser.add_argument(
-        "--num_test_instances", type=int, default=-1,
-        help="How many test instances to evaluate.",
-    )
     
     args = parser.parse_args()
 
@@ -132,9 +128,6 @@ def main():
         
     text_prompts = [json.loads(line)[args.text_key] for line in open(args.test_file).readlines()]
     text_prompts = [prefix + inp for inp in text_prompts]
-    
-    if args.num_test_instances != - 1:
-        text_prompts = text_prompts[:args.num_test_instances]
     
     # Generate #
     num_steps, guidance, batch_size, num_samples = args.num_steps, args.guidance, args.batch_size, args.num_samples
