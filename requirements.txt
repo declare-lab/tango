@@ -4,6 +4,7 @@ torchvision==0.14.1
 transformers==4.27.0
 accelerate==0.18.0
 datasets==2.1.0
+diffusers==0.18.2
 einops==0.6.1
 h5py==3.8.0
 huggingface_hub==0.13.3

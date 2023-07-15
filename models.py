@@ -224,7 +224,7 @@ class AudioDiffusion(nn.Module):
         inference_scheduler.set_timesteps(num_steps, device=device)
         timesteps = inference_scheduler.timesteps
 
-        num_channels_latents = self.unet.in_channels
+        num_channels_latents = self.unet.config.in_channels
         latents = self.prepare_latents(batch_size, inference_scheduler, num_channels_latents, prompt_embeds.dtype, device)
 
         num_warmup_steps = len(timesteps) - num_steps * inference_scheduler.order
