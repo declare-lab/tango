@@ -129,9 +129,11 @@ The training script should automatically download the AudioLDM weights from [her
 
 ## How to make inferences?
 
-Checkpoint from training will be saved in the `saved/*/` directory.
+### From your trained checkpoints
 
-To perform audio generation and objective evaluation in AudioCaps test set from a trained checkpoint:
+Checkpoints from training will be saved in the `saved/*/` directory.
+
+To perform audio generation and objective evaluation in AudioCaps test set from your trained checkpoint:
 
 ```bash
 CUDA_VISIBLE_DEVICES=0 python inference.py \
@@ -141,11 +143,15 @@ CUDA_VISIBLE_DEVICES=0 python inference.py \
 
 Check `inference.py` and `inference.sh` for the full list of arguments and how to use them.
 
+### From our released checkpoints in Hugging Face Hub
+
 To perform audio generation and objective evaluation in AudioCaps test set from our huggingface checkpoints:
 
 ```bash
 python inference_hf.py --checkpoint="declare-lab/tango"
 ```
+
+### Note
 
 We use functionalities from `audioldm_eval` for objective evalution in `inference.py`. It requires the gold reference audio files and generated audio files to have the same name. You need to create the directory `data/audiocaps_test_references/subset` and keep the reference audio files there. The files should have names as following: `output_0.wav`, `output_1.wav` and so on. The indices should correspond to the corresponding line indices in `data/test_audiocaps_subset.json`.
 
