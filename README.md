@@ -3,7 +3,7 @@
 
 [Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [Huggingface Demo](https://huggingface.co/spaces/declare-lab/tango) | [Replicate demo and API](https://replicate.com/declare-lab/tango)
 
-
+:fire: Tango has been accepted at ACM MM 2023.
 :fire: The demo of **TANGO** is live on [Huggingface Space](https://huggingface.co/spaces/declare-lab/tango)
 
 📣 We are releasing [**Tango-Full-FT-AudioCaps**](https://huggingface.co/declare-lab/tango-full-ft-audiocaps) which was first pre-trained on [**TangoPromptBank**](https://huggingface.co/datasets/declare-lab/TangoPromptBank), a collection of diverse text, audio pairs. We later fine tuned this checkpoint on AudioCaps. This checkpoint obtained state-of-the-art results for text-to-audio generation on AudioCaps.
