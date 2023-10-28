@@ -233,6 +233,9 @@ def main():
     args = parse_args()
     accelerator_log_kwargs = {}
 
+    if args.augment and args.per_device_train_batch_size < 2:
+        raise ValueError("Augmentation requires per device train batch size of at least 2.")
+
     if args.with_tracking:
         accelerator_log_kwargs["log_with"] = args.report_to
         accelerator_log_kwargs["logging_dir"] = args.output_dir
@@ -440,7 +443,9 @@ def main():
                     mel, _, waveform = torch_tools.wav_to_fbank(audios, target_length, stft)
                     mel = mel.unsqueeze(1).to(device)
                     
-                    if args.augment:
+                    if args.augment and len(text) > 1:
+                        # the last batch of the training data may have only one instance
+                        # we check the length here so that the augmentation function doesn't throw an error
                         mixed_mel, _, _, mixed_captions = torch_tools.augment_wav_to_fbank(audios, text, len(audios), target_length, stft)
                         mixed_mel = mixed_mel.unsqueeze(1).to(device)
                         mel = torch.cat([mel, mixed_mel], 0)
