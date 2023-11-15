@@ -3,7 +3,7 @@
 
 [Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [Huggingface Demo](https://huggingface.co/spaces/declare-lab/tango) | [Replicate demo and API](https://replicate.com/declare-lab/tango)
 
-🎆 🧨 🔥 [Meet Mustango, an exciting addition to the vibrant landscape of Multimodal Large Language Models designed for controlled music generation. Mustango leverages, Latent Diffusion Model (LDM), Flan-T5, and musical features to do the magic!](https://github.com/AMAAI-Lab/mustango)
+🎆 🧨 🔥 🎠 [Meet Mustango, an exciting addition to the vibrant landscape of Multimodal Large Language Models designed for controlled music generation. Mustango leverages, Latent Diffusion Model (LDM), Flan-T5, and musical features to do the magic!](https://github.com/AMAAI-Lab/mustango)
 
 :fire: Tango has been accepted at ACM MM 2023.
 
