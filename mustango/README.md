@@ -12,7 +12,7 @@ Meet Mustango, an exciting addition to the vibrant landscape of Multimodal Large
 🔥 Live demo available on [Replicate](https://replicate.com/declare-lab/mustango) and [HuggingFace](https://huggingface.co/spaces/declare-lab/mustango).
 
 <div align="center">
-  <img src="img/mustango.jpg" width="500"/>
+  <img src="mustango.jpg" width="500"/>
 </div>
 
 
