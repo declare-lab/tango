@@ -1,0 +1,1 @@
+{"filter_length": 1024, "hop_length": 160, "win_length": 1024, "n_mel_channels": 64, "sampling_rate": 16000, "mel_fmin": 0, "mel_fmax": 8000}
