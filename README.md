@@ -1,6 +1,8 @@
 # TANGO: Text to Audio using iNstruction-Guided diffusiOn
 
-<img src="img/tango2.png" alt="Tango 2" width= "50%" class="center" >
+<p align="center">
+      <img src="img/tango2.png" alt="Tango 2" width= "50%" class="center" >
+</p>
 
 [Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [Huggingface Demo](https://huggingface.co/spaces/declare-lab/tango) | [Replicate demo and API](https://replicate.com/declare-lab/tango) | [Tango 2](https://huggingface.co/declare-lab/tango2) | [Audio-Alpaca](https://huggingface.co/datasets/declare-lab/audio-alpaca)
 
@@ -40,7 +42,7 @@ import IPython
 import soundfile as sf
 from tango import Tango
 
-tango = Tango("declare-lab/tango")
+tango = Tango("declare-lab/tango2")
 
 prompt = "An audience cheering and clapping"
 audio = tango.generate(prompt)
