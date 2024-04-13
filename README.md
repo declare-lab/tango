@@ -29,7 +29,7 @@ Tango-Full-FT-Audio-Music-Caps | [https://huggingface.co/declare-lab/tango-full-
 🎵 🔥 We are releasing Tango 2 built upon Tango for text-to-audio generation. Tango 2 was initialized with the Tango-full-ft checkpoint and underwent alignment training using DPO on audio-alpaca, a pairwise text-to-audio preference dataset. 🎶
 
 <p align="center">
-  <img src=img/tango2-framework.png width=50%/>
+  <img src=img/tango2-framework.png width=80%/>
 </p>
 
 🎵 🔥 We are also making **Audio-alpaca** available. **Audio-alpaca** is a pairwise preference dataset containing about 15k (prompt,audio_w, audio_l) triplets where given a textual prompt, audio_w is the preferred generated audio and audio_l is the undesirable audio. [Download Audio-alpaca](https://huggingface.co/datasets/declare-lab/audio-alpaca). **Tango 2** was trained on **Audio-alpaca**.
