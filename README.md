@@ -1,6 +1,6 @@
 # TANGO: Text to Audio using iNstruction-Guided diffusiOn
 
-<img src="img/tango2.png" alt="Tango 2" class="center">
+<img src="img/tango2.png" alt="Tango 2" width= "50%" class="center" >
 
 [Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [Huggingface Demo](https://huggingface.co/spaces/declare-lab/tango) | [Replicate demo and API](https://replicate.com/declare-lab/tango)
 
