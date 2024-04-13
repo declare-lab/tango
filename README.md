@@ -183,9 +183,8 @@ We use wandb to log training and infernce results.
 
 ### Tango 2
 
-| Model                | Parameters | Objective | Objective | Objective | Objective | Subjective | Subjective |
+| Model                | Parameters | FAD ↓     | KL ↓      | IS ↑      | CLAP ↑    | OVL ↑      | REL ↑      |
 |----------------------|------------|-----------|-----------|-----------|-----------|------------|------------|
-|                      |            | FAD ↓     | KL ↓      | IS ↑      | CLAP ↑    | OVL ↑      | REL ↑      |
 | AudioLDM-M-Full-FT   | 416M       | 2.57      | 1.26      | 8.34      | 0.43      | -          | -          |
 | AudioLDM-L-Full      | 739M       | 4.18      | 1.76      | 7.76      | 0.43      | -          | -          |
 | AudioLDM 2-Full      | 346M       | **2.18**  | 1.62      | 6.92      | 0.43      | -          | -          |
