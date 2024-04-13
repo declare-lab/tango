@@ -5,7 +5,7 @@
       
 [Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [Huggingface Demo](https://huggingface.co/spaces/declare-lab/tango) | [Replicate demo and API](https://replicate.com/declare-lab/tango) | [Tango 2](https://huggingface.co/declare-lab/tango2) | [Audio-Alpaca](https://huggingface.co/datasets/declare-lab/audio-alpaca)
 
-
+</p>
 
 ## Tango Model Family
 
@@ -17,8 +17,6 @@ Tango-Full-FT-Audio-Music-Caps | [https://huggingface.co/declare-lab/tango-full-
 | Tango-Full | [https://huggingface.co/declare-lab/tango-full](https://huggingface.co/declare-lab/tango-full) |
 | Tango-2    | [https://huggingface.co/declare-lab/tango2](https://huggingface.co/declare-lab/tango2)|
 | Tango-2-full| [https://huggingface.co/declare-lab/tango2-full](https://huggingface.co/declare-lab/tango2-full)|
-
-</p>
 
 ## Description
 
