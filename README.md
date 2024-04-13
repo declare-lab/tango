@@ -11,7 +11,7 @@
 | Model Name                 | Model Path                                       |
 |----------------------------|-------------------------------------------------|
 | Tango                      | [https://huggingface.co/declare-lab/tango](https://huggingface.co/declare-lab/tango)                               |
-| Tango-Full-FT-Audiocaps (state-of-the-art)    | [https://huggingface.co/declare-lab/tango-full-ft-audiocaps](https://huggingface.co/declare-lab/tango-full-ft-audiocaps) |
+| Tango-Full-FT-Audiocaps    | [https://huggingface.co/declare-lab/tango-full-ft-audiocaps](https://huggingface.co/declare-lab/tango-full-ft-audiocaps) |
 Tango-Full-FT-Audio-Music-Caps | [https://huggingface.co/declare-lab/tango-full-ft-audio-music-caps](https://huggingface.co/declare-lab/tango-full-ft-audio-music-caps) |
 | Tango-Full | [https://huggingface.co/declare-lab/tango-full](https://huggingface.co/declare-lab/tango-full) |
 | Tango-2    | [https://huggingface.co/declare-lab/tango2](https://huggingface.co/declare-lab/tango2)|
