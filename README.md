@@ -102,6 +102,8 @@ Follow the instructions given in the [AudioCaps repository](https://github.com/c
 
 Note that we cannot distribute the data because of copyright issues.
 
+🎵 🔥 We are also making **Audio-alpaca** available. **Audio-alpaca** is a pairwise preference dataset containing about 15k (prompt,audio_w, audio_l) triplets where given a textual prompt, audio_w is the preferred generated audio and audio_l is the undesirable audio. [Download Audio-alpaca](https://huggingface.co/datasets/declare-lab/audio-alpaca). **Tango 2** was trained on **Audio-alpaca**.
+
 ## How to train?
 We use the `accelerate` package from Hugging Face for multi-gpu training. Run `accelerate config` from terminal and set up your run configuration by the answering the questions asked.
 
