@@ -2,7 +2,7 @@
 
 <img src="img/tango2.png" alt="Tango 2" width= "50%" class="center" >
 
-[Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [Huggingface Demo](https://huggingface.co/spaces/declare-lab/tango) | [Replicate demo and API](https://replicate.com/declare-lab/tango) | [Tango2](https://huggingface.co/declare-lab/tango2) | [Audiol-Alpaca](https://huggingface.co/datasets/declare-lab/audio-alpaca)
+[Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [Huggingface Demo](https://huggingface.co/spaces/declare-lab/tango) | [Replicate demo and API](https://replicate.com/declare-lab/tango) | [Tango2](https://huggingface.co/declare-lab/tango2) | [Audio-Alpaca](https://huggingface.co/datasets/declare-lab/audio-alpaca)
 
 ## Tango Model Family
 
@@ -28,6 +28,8 @@ Tango-Full-FT-Audio-Music-Caps | [https://huggingface.co/declare-lab/tango-full-
 <p align="center">
   <img src=img/tango2-framework.png width=50%/>
 </p>
+
+🎵 🔥 We are also making **Audio-alpaca** available. **Audio-alpaca** is a pairwise preference dataset containing about 15k (prompt,audio_w, audio_l) triplets where given a textual prompt, audio_w is the preferred generated audio and audio_l is the undesirable audio. [Download Audio-alpaca](https://huggingface.co/datasets/declare-lab/audio-alpaca).
 
 ## Quickstart Guide
 
