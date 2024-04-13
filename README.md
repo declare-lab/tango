@@ -1,5 +1,5 @@
 # TANGO: Text to Audio using iNstruction-Guided diffusiOn
-<!-- ![cover](img/tango-neurips.png) -->
+![cover](img/tango2.png)
 
 [Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [Huggingface Demo](https://huggingface.co/spaces/declare-lab/tango) | [Replicate demo and API](https://replicate.com/declare-lab/tango)
 
@@ -25,16 +25,21 @@
 | Tango-Full-FT-Audiocaps (state-of-the-art)    | [https://huggingface.co/declare-lab/tango-full-ft-audiocaps](https://huggingface.co/declare-lab/tango-full-ft-audiocaps) |
 Tango-Full-FT-Audio-Music-Caps | [https://huggingface.co/declare-lab/tango-full-ft-audio-music-caps](https://huggingface.co/declare-lab/tango-full-ft-audio-music-caps) |
 | Tango-Full | [https://huggingface.co/declare-lab/tango-full](https://huggingface.co/declare-lab/tango-full) |
+| Tango-2    | [https://huggingface.co/declare-lab/tango2](https://huggingface.co/declare-lab/tango2)|
+| Tango-2-full| [https://huggingface.co/declare-lab/tango2](https://huggingface.co/declare-lab/tango2)|
 
 ## Description
 
 **TANGO** is a latent diffusion model (LDM) for text-to-audio (TTA) generation. **TANGO** can generate realistic audios including human sounds, animal sounds, natural and artificial sounds and sound effects from textual prompts. We use the frozen instruction-tuned LLM Flan-T5 as the text encoder and train a UNet based diffusion model for audio generation. We perform comparably to current state-of-the-art models for TTA across both objective and subjective metrics, despite training the LDM on a 63 times smaller dataset. We release our model, training, inference code, and pre-trained checkpoints for the research community.
 
-<!-- ## Abstract
-The immense scale of the recent large language models (LLM) allows many interesting properties, such as, instruction- and chain-of-thought-based fine-tuning, that has significantly improved zero- and few-shot performance in many natural language processing (NLP) tasks. Inspired by such successes, we adopt such an instruction-tuned LLM _Flan-T5_ as the text encoder for text-to-audio generation, where the prior works either pre-trained a joint text-audio encoder or used a non-instruction-tuned model, such as, _T5_. Consequently, our latent diffusion model (LDM)-based approach (_**Tango**_) outperforms the state-of-the-art AudioLDM, despite training the LDM on a 63 times smaller dataset and keeping the text encoder frozen. This improvement can also be attributed to the adoption of audio pressure level-based sound mixing for training set augmentation, whereas the prior methods take a random mix. -->
-
 <p align="center">
   <img src=img/tango.png />
+</p>
+
+🎵 🔥 We are releasing Tango 2 built upon Tango for text-to-audio generation. Tango 2 was initialized with the Tango-full-ft checkpoint and underwent alignment training using DPO on audio-alpaca, a dataset of pairwise audio preferences. 🎶
+
+<p align="center">
+  <img src=img/tango2.png />
 </p>
 
 ## Quickstart Guide
