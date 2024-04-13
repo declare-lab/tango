@@ -2,9 +2,10 @@
 
 <p align="center">
       <img src="img/tango2.png" alt="Tango 2" width= "50%" class="center" >
-</p>
-
+      
 [Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Model](https://huggingface.co/declare-lab/tango) | [Website and Examples](https://tango-web.github.io/) | [More Examples](https://github.com/declare-lab/tango/blob/master/samples/README.md) | [Huggingface Demo](https://huggingface.co/spaces/declare-lab/tango) | [Replicate demo and API](https://replicate.com/declare-lab/tango) | [Tango 2](https://huggingface.co/declare-lab/tango2) | [Audio-Alpaca](https://huggingface.co/datasets/declare-lab/audio-alpaca)
+
+</p>
 
 ## Tango Model Family
 
