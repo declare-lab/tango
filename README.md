@@ -134,6 +134,23 @@ Check `train.py` and `train.sh` for the full list of arguments and how to use th
 
 The training script should automatically download the AudioLDM weights from [here](https://zenodo.org/record/7600541/files/audioldm-s-full?download=1). However if the download is slow or if you face any other issues then you can: i) download the `audioldm-s-full` file from [here](https://huggingface.co/haoheliu/AudioLDM-S-Full/tree/main), ii) rename it to `audioldm-s-full.ckpt`, and iii) keep it in `/home/user/.cache/audioldm/` direcrtory.
 
+To train **TANGO 2** on the Audio-alpaca dataset from **TANGO** checkpoint using:
+```bash
+accelerate launch  tango2/tango2-train.py --hf_model "declare-lab/tango-full-ft-audiocaps" \
+--unet_model_config="configs/diffusion_model_config.json" \
+--freeze_text_encoder  \
+--train_file='audio_alphaca_15k.json' \
+--learning_rate=9.6e-7 \
+--num_train_epochs=5  \
+--num_warmup_steps=200 \
+--per_device_train_batch_size=4 \
+--per_device_eval_batch_size=4  \
+--gradient_accumulation_steps=4 \
+--beta_dpo=2000  \
+--sft_first_epochs=1
+```
+
+
 ## How to make inferences?
 
 ### From your trained checkpoints
@@ -149,6 +166,15 @@ CUDA_VISIBLE_DEVICES=0 python inference.py \
 ```
 
 Check `inference.py` and `inference.sh` for the full list of arguments and how to use them.
+
+To perform audio generation and objective evaluation in AudioCaps test set for **TANGO 2** :
+
+```bash
+CUDA_VISIBLE_DEVICES=0 python tango2/inference.py \
+--original_args="saved/*/summary.jsonl" \
+--model="saved/*/best/pytorch_model_2.bin" \
+```
+Note that **TANGO 2** inference.py script is different from **TANGO** .
 
 ### From our released checkpoints in Hugging Face Hub
 
