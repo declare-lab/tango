@@ -1,4 +1,4 @@
-# TANGO: Text to Audio using iNstruction-Guided diffusiOn
+# Tango: LLM-guided Text-to-Audio Generation and DPO-based Alignment
 
 <p align="center">
       <img src="img/tango2-teaser.png" alt="Tango 2" width= "80%" class="center" >
