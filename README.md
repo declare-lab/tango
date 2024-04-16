@@ -3,7 +3,7 @@
 <p align="center">
       <img src="img/tango2.png" alt="Tango 2" width= "50%" class="center" >
       
-[Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Tango Model](https://huggingface.co/declare-lab/tango) | [Tango Website](https://tango-web.github.io/) | [Tango Demo](https://huggingface.co/spaces/declare-lab/tango) | [Tango 2](https://huggingface.co/declare-lab/tango2) | [Tango 2 Demo](https://huggingface.co/spaces/declare-lab/tango2) | [Audio-Alpaca](https://huggingface.co/datasets/declare-lab/audio-alpaca) | [Tango 2 Website](https://tango2-web.github.io/)
+[Tango 2 Paper]([Read the paper](https://arxiv.org/abs/2404.09956)) | [Tango 2](https://huggingface.co/declare-lab/tango2) | [Tango 2 Demo](https://huggingface.co/spaces/declare-lab/tango2) | [Audio-Alpaca](https://huggingface.co/datasets/declare-lab/audio-alpaca) | [Tango 2 Website](https://tango2-web.github.io/) | [Tango Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Tango Model](https://huggingface.co/declare-lab/tango) | [Tango Website](https://tango-web.github.io/) | [Tango Demo](https://huggingface.co/spaces/declare-lab/tango)
 
 </p>
 
