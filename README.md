@@ -230,6 +230,17 @@ We use wandb to log training and infernce results.
 Please consider citing the following article if you found our work useful:
 
 ```bibtex
+@misc{majumder2024tango,
+      title={Tango 2: Aligning Diffusion-based Text-to-Audio Generations through Direct Preference Optimization}, 
+      author={Navonil Majumder and Chia-Yu Hung and Deepanway Ghosal and Wei-Ning Hsu and Rada Mihalcea and Soujanya Poria},
+      year={2024},
+      eprint={2404.09956},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}
+}
+```
+
+```bibtex
 @article{ghosal2023tango,
   title={Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model},
   author={Ghosal, Deepanway and Majumder, Navonil and Mehrish, Ambuj and Poria, Soujanya},
