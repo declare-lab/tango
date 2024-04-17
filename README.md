@@ -227,7 +227,7 @@ We use wandb to log training and infernce results.
 
 
 ## Citation
-Please consider citing the following article if you found our work useful:
+Please consider citing the following articles if you found our work useful:
 
 ```bibtex
 @misc{majumder2024tango,
