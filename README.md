@@ -9,6 +9,13 @@
 
 🎵 🔥 🎉 🎉 We are releasing Tango 2 built upon Tango for text-to-audio generation. Tango 2 was initialized with the Tango-full-ft checkpoint and underwent alignment training using DPO on audio-alpaca, a pairwise text-to-audio preference dataset. [Download the model](https://huggingface.co/declare-lab/tango2), [Access the demo](https://huggingface.co/spaces/declare-lab/tango2). [Trainer is available in the tango2 directory](https://github.com/declare-lab/tango/tree/master/tango2)🎶
 
+## Quickstart on Google Colab
+
+| Colab | Info
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saravananbcs/tango-demo-colab/blob/master/Tango_2_Google_Colab_demo.ipynb) | [Tango_2_Google_Colab_demo.ipynb](./Tango_2_Google_Colab_demo.ipynb)
+
+
 
 ## Tango Model Family
 
