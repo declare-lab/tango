@@ -13,7 +13,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saravananbcs/tango-demo-colab/blob/master/Tango_2_Google_Colab_demo.ipynb) | [Tango_2_Google_Colab_demo.ipynb](./Tango_2_Google_Colab_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saravananbcs/tango-demo-colab/blob/master/Tango_2_Google_Colab_demo.ipynb) | [Tango_2_Google_Colab_demo.ipynb](https://github.com/declare-lab/tango/blob/master/Tango_Google_Colab_demo.ipynb)
 
 
 
