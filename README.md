@@ -238,9 +238,6 @@ Please consider citing the following articles if you found our work useful:
       archivePrefix={arXiv},
       primaryClass={cs.SD}
 }
-```
-
-```bibtex
 @article{ghosal2023tango,
   title={Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model},
   author={Ghosal, Deepanway and Majumder, Navonil and Mehrish, Ambuj and Poria, Soujanya},
