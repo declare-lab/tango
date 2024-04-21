@@ -197,6 +197,8 @@ def parse_args():
         "--sft_first_epochs", type=int, default=0,
         help="Whether to perform sft on preference data first",
     )
+    parser.add_argument("--dataset_dir",type=str,default="~/.cache/huggingface/datasets",
+                        help="Location to store the downloaded audio")
     parser.add_argument(
         "--report_to", type=str, default="all",
         help=(
@@ -310,10 +312,12 @@ def main():
     diffusers.utils.logging.set_verbosity_error()
     transformers.utils.logging.set_verbosity_error()
 
+
+    dataset = load_dataset('declare-lab/audio_alpaca')
+    dataset_dir = args.dataset_dir
     # If passed along, set the training seed now.
     if args.seed is not None:
         set_seed(args.seed)
-
     # Handle output directory creation and wandb tracking
     if accelerator.is_main_process:
         if args.output_dir is None or args.output_dir == "":
@@ -334,9 +338,20 @@ def main():
         accelerator.project_configuration.automatic_checkpoint_naming = False
 
         wandb.init(project="Text to Audio Diffusion with DPO")
+        
+        
+        logger.info(f"***** Writing audio file to {dataset_dir}/audio_alpaca *****")
+        if not os.path.exists(f"{dataset_dir}/audio_alpaca"):
+            os.makedirs(f"{dataset_dir}/audio_alpaca")
+            
+        for i in range(len(dataset['train'])):
+            sf.write(f"{dataset_dir}/audio_alpaca/chosen_{i}.wav", dataset['train'][i]['chosen']['array'], samplerate=16000) 
+            sf.write(f"{dataset_dir}/audio_alpaca/reject_{i}.wav", dataset['train'][i]['rejected']['array'], samplerate=16000)
+        
+        
 
     accelerator.wait_for_everyone()
-
+    
     # Get the datasets
     data_files = {}
     if args.train_file is not None:
@@ -353,11 +368,18 @@ def main():
     extension = args.train_file.split(".")[-1]
     
     
-    data_files_train = data_files["train"]
+    #data_files_train = data_files["train"]
     data_files.pop('train')
-    raw_dataset_train = load_dataset(extension, data_files=data_files_train)
+    #raw_dataset_train = load_dataset(extension, data_files=data_files_train)
     raw_dataset_valid_test = load_dataset(extension, data_files=data_files)
     text_column, audio_column = args.text_column, args.audio_column
+    
+    prompt_list = prompt_list = dataset['train']['prompt']
+    chosen_audio_path = [f"{dataset_dir}/audio_alpaca/chosen_{i}.wav" for i in range(len(dataset['train']))]
+    rejected_audio_path = [f"{dataset_dir}/audio_alpaca/reject_{i}.wav" for i in range(len(dataset['train']))]
+    raw_dataset_train = HuggingfaceDataset.from_pandas(pd.DataFrame({'prompt':prompt_list,
+                                      'chosen':chosen_audio_path,
+                                      'rejected':rejected_audio_path}))
    
     
  
@@ -391,7 +413,7 @@ def main():
         
     with accelerator.main_process_first():
         
-        train_dataset = DPOText2AudioDataset(raw_dataset_train['train'], prefix, args.text_column_dpo, args.audio_w_column, args.audio_l_column, args.num_examples)
+        train_dataset = DPOText2AudioDataset(raw_dataset_train, prefix, 'prompt', 'chosen', 'rejected', args.num_examples)
         eval_dataset = Text2AudioDataset(raw_dataset_valid_test["validation"], prefix, text_column, audio_column, args.num_examples)
         test_dataset = Text2AudioDataset(raw_dataset_valid_test["test"], prefix, text_column, audio_column, args.num_examples)
 
