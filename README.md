@@ -145,11 +145,11 @@ Check `train.py` and `train.sh` for the full list of arguments and how to use th
 The training script should automatically download the AudioLDM weights from [here](https://zenodo.org/record/7600541/files/audioldm-s-full?download=1). However if the download is slow or if you face any other issues then you can: i) download the `audioldm-s-full` file from [here](https://huggingface.co/haoheliu/AudioLDM-S-Full/tree/main), ii) rename it to `audioldm-s-full.ckpt`, and iii) keep it in `/home/user/.cache/audioldm/` direcrtory.
 
 To train **TANGO 2** on the Audio-alpaca dataset from **TANGO** checkpoint using:
+The training script will download audio_alpaca wav files and save it in {PATH_TO_DOWNLOAD_WAV_FILE}/audio_alpaca. Default location will be ~/.cache/huggingface/datasets.
 ```bash
 accelerate launch  tango2/tango2-train.py --hf_model "declare-lab/tango-full-ft-audiocaps" \
 --unet_model_config="configs/diffusion_model_config.json" \
 --freeze_text_encoder  \
---train_file='audio_alphaca_15k.json' \
 --learning_rate=9.6e-7 \
 --num_train_epochs=5  \
 --num_warmup_steps=200 \
@@ -157,7 +157,8 @@ accelerate launch  tango2/tango2-train.py --hf_model "declare-lab/tango-full-ft-
 --per_device_eval_batch_size=4  \
 --gradient_accumulation_steps=4 \
 --beta_dpo=2000  \
---sft_first_epochs=1
+--sft_first_epochs=1 \
+--dataset_dir={PATH_TO_DOWNLOAD_WAV_FILE}
 ```
 
 
