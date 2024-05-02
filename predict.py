@@ -1,6 +1,9 @@
 # Prediction interface for Cog ⚙️
 # https://github.com/replicate/cog/blob/main/docs/python.md
 
+import os
+import subprocess
+import time
 import json
 import torch
 from tqdm import tqdm
@@ -11,35 +14,41 @@ from audioldm.variational_autoencoder import AutoencoderKL
 from cog import BasePredictor, Input, Path
 
 
+MODEL_URL = "https://weights.replicate.delivery/default/declare-lab/tango.tar"
+MODEL_CACHE = "tango_weights"
+
+
+def download_weights(url, dest):
+    start = time.time()
+    print("downloading url: ", url)
+    print("downloading to: ", dest)
+    subprocess.check_call(["pget", "-x", url, dest], close_fds=False)
+    print("downloading took: ", time.time() - start)
+
+
 class Predictor(BasePredictor):
     def setup(self):
         """Load the model into memory to make running multiple predictions efficient"""
-        self.models = {
-            k: Tango(name=k)
-            for k in [
-                "tango",
-                "tango-full",
-                "tango-full-ft-audiocaps",
-                "tango-full-ft-audio-music-caps",
-            ]
-        }
+        if not os.path.exists(MODEL_CACHE):
+            download_weights(MODEL_URL, MODEL_CACHE)
+
+        self.models = {k: Tango(name=k) for k in ["tango2", "tango2-full"]}
 
     def predict(
         self,
         prompt: str = Input(
-            description="Input prompt", default="An audience cheering and clapping"
+            description="Input prompt",
+            default="Quiet speech and then and airplane flying away",
         ),
         model: str = Input(
             description="choose a model",
             choices=[
-                "tango",
-                "tango-full",
-                "tango-full-ft-audiocaps",
-                "tango-full-ft-audio-music-caps",
+                "tango2",
+                "tango2-full",
             ],
-            default="tango",
+            default="tango2",
         ),
-        steps: int = Input(description="inferene steps", default=100),
+        steps: int = Input(description="inference steps", default=100),
         guidance: float = Input(description="guidance scale", default=3),
     ) -> Path:
         """Run a single prediction on the model"""
@@ -52,8 +61,8 @@ class Predictor(BasePredictor):
 
 
 class Tango:
-    def __init__(self, name="tango", path="tango_weights", device="cuda:0"):
-        # weights are dowloaded from f"https://huggingface.co/declare-lab/{name}/tree/main" and saved to ./tango_weights
+    def __init__(self, name="tango2", path=MODEL_CACHE, device="cuda:0"):
+        # weights are downloaded from f"https://huggingface.co/declare-lab/{name}/tree/main" and saved to MODEL_CACHE
         vae_config = json.load(open(f"{path}/{name}/vae_config.json"))
         stft_config = json.load(open(f"{path}/{name}/stft_config.json"))
         main_config = json.load(open(f"{path}/{name}/main_config.json"))
@@ -90,7 +99,7 @@ class Tango:
             yield lst[i : i + n]
 
     def generate(self, prompt, steps=100, guidance=3, samples=1, disable_progress=True):
-        """Genrate audio for a single prompt string."""
+        """Generate audio for a single prompt string."""
         with torch.no_grad():
             latents = self.model.inference(
                 [prompt],
@@ -113,7 +122,7 @@ class Tango:
         batch_size=8,
         disable_progress=True,
     ):
-        """Genrate audio for a list of prompt strings."""
+        """Generate audio for a list of prompt strings."""
         outputs = []
         for k in tqdm(range(0, len(prompts), batch_size)):
             batch = prompts[k : k + batch_size]
