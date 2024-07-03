@@ -29,6 +29,8 @@ Tango-Full-FT-Audio-Music-Caps | [https://huggingface.co/declare-lab/tango-full-
 | Tango-Full | [https://huggingface.co/declare-lab/tango-full](https://huggingface.co/declare-lab/tango-full) |
 | Tango-2    | [https://huggingface.co/declare-lab/tango2](https://huggingface.co/declare-lab/tango2)|
 | Tango-2-full| [https://huggingface.co/declare-lab/tango2-full](https://huggingface.co/declare-lab/tango2-full)|
+| Tango-AF-AC-FT-AC| [https://huggingface.co/declare-lab/tango-af-ac-ft-ac](https://huggingface.co/declare-lab/tango-af-ac-ft-ac)|
+| Tango-AF-FT-MC| [https://huggingface.co/declare-lab/tango-music-af-ft-mc](https://huggingface.co/declare-lab/tango-music-af-ft-mc)|
 
 ## Description
 
