@@ -8,6 +8,8 @@
 
 </p>
 
+🎵 🔥 🎉 🎉 We are releasing two new checkpoints. The method and results are reported [here](https://arxiv.org/pdf/2406.15487). The performance for text-to-music especially improved significantly than its predecessors. Access the new version of Tango [here](https://huggingface.co/declare-lab/tango-af-ac-ft-ac). TangoMusic can be accessed [here](https://huggingface.co/declare-lab/tango-music-af-ft-mc).
+
 🎵 🔥 🎉 🎉 We are releasing Tango 2 built upon Tango for text-to-audio generation. Tango 2 was initialized with the Tango-full-ft checkpoint and underwent alignment training using DPO on audio-alpaca, a pairwise text-to-audio preference dataset. [Download the model](https://huggingface.co/declare-lab/tango2), [Access the demo](https://huggingface.co/spaces/declare-lab/tango2). [Trainer is available in the tango2 directory](https://github.com/declare-lab/tango/tree/master/tango2)🎶
 
 ## Quickstart on Google Colab
