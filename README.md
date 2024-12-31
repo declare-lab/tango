@@ -1,5 +1,7 @@
 # Tango: LLM-guided Diffusion-based Text-to-Audio Generation and DPO-based Alignment
 
+🔥🎤 We have released TangoFlux, the new SOTA in text-to-audio generation. Now you can generate 30 seconds of audio in less than 3 seconds. [Please visit the Github](https://github.com/declare-lab/TangoFlux).
+
 <p align="center">
       <img src="img/tango2-teaser.png" alt="Tango 2" width= "80%" class="center" >
       
@@ -7,10 +9,6 @@
 [Tango Paper](https://arxiv.org/pdf/2304.13731.pdf) | [Tango Model](https://huggingface.co/declare-lab/tango) | [Tango Demo](https://huggingface.co/spaces/declare-lab/tango) | [Tango Website](https://tango-web.github.io/) 
 
 </p>
-
-🎵 🔥 🎉 🎉 As part of our collaboration with NVIDIA, we are releasing two new checkpoints. The method and results are reported [here](https://arxiv.org/pdf/2406.15487). The performance for text-to-music especially improved significantly than its predecessors. Access the new version of Tango [here](https://huggingface.co/declare-lab/tango-af-ac-ft-ac). TangoMusic can be accessed [here](https://huggingface.co/declare-lab/tango-music-af-ft-mc). A big shoutout to our NVIDIA collaborators -- full credit to them.
-
-🎵 🔥 🎉 🎉 We are releasing Tango 2 built upon Tango for text-to-audio generation. Tango 2 was initialized with the Tango-full-ft checkpoint and underwent alignment training using DPO on audio-alpaca, a pairwise text-to-audio preference dataset. [Download the model](https://huggingface.co/declare-lab/tango2), [Access the demo](https://huggingface.co/spaces/declare-lab/tango2). [Trainer is available in the tango2 directory](https://github.com/declare-lab/tango/tree/master/tango2)🎶
 
 ## Quickstart on Google Colab
 
