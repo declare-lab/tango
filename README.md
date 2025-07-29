@@ -1,5 +1,7 @@
 # Tango: LLM-guided Diffusion-based Text-to-Audio Generation and DPO-based Alignment
 
+🔥If you enjoyed Tango, please check out our latest innovation, Jam, a lyrics-to-song generator: https://github.com/declare-lab/jamify
+
 🔥🎤 We have released TangoFlux, the new SOTA in text-to-audio generation. Now you can generate 30 seconds of audio in less than 3 seconds. [Please visit the Github](https://github.com/declare-lab/TangoFlux).
 
 <p align="center">
